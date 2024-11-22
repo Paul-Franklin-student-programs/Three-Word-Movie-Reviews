@@ -254,58 +254,10 @@ textarea {
 
 
 
-body {
-  position: relative; /
-}
 
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url('../img/three-word-movie-reviews-background-pic.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  transform: rotate(180deg);
-  z-index: -1;
-  pointer-events: none;
-}
 
-.paul-avatar-speech {
-  width: 25%;
-  height: auto;
-  bottom: 105.4%;
-  left: 3.8%;
-}
 
-.cinephiles-in-a-hurry-speech {
-  width: 18.6%;
-  bottom: 110%;
-  left: 78%;
-  border-radius: 13px;
-}
 
-.find-films-speech {
-  width: 20%;
-  left: 77.3%;
-  bottom: 165%;
-}
-
-.save-time-speech {
-  width: 20%;
-  left: 77.5%;
-  bottom: 90%;
-}
-
-.paul-chief-images {
-  /*border: 2px solid green;*/
-  position: relative;
-  width: 100%;
-  height: 400px;
-}
 
 /*table, th, td {
   border: 1px solid black;
@@ -316,30 +268,43 @@ body::before {
   width: 100%;
 }*/
 
-.image {
-  position: absolute;
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-images-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.avatar {
+  width: 25%;
   height: auto;
 }
 
-.main-image-container {
-    position: absolute;
-    max-width: 100%;
-    height: 400px;
-    position: relative;
-    /*border: 2px solid blue;*/
-    top: 0;
-    left: 0;
+.main-title {
+  border-radius: 10px;
+  width: 45%;
+  height: auto;
 }
 
-.main-image-container img {
-    width: 50%;
-    left: 50%;
-    transform: translate(-50%);
-    display: block;
-    margin: 0;
-    top: 0;
-    position: absolute;
+.reel {
+  width: 20%;
+  height: auto;
 }
+
+
+
+
+
+
+
 
 nav {
     top: 82%;
@@ -376,9 +341,3 @@ nav ul li a {
 nav ul li a:hover {
     color: #1954f7;
 }
-
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
