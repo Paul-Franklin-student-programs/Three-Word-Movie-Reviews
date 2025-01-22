@@ -271,73 +271,74 @@ textarea {
 body {
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 .main-images-container {
+    max-width: 1200px;
     display: flex;
     align-items: flex-end;
-    justify-content: space-around;
-    overflow: hidden;
-    width: 100%;
-    height: auto;
-    box-sizing: border-box;
+    justify-content: flex-start;
+    flex-wrap: wrap; /* Allow items to wrap when necessary */
+    width: 100%; /* Ensures the container spans the full width of the viewport */
+    height: auto; /* Keeps height dynamic */
 }
 
 .avatar {
-  width: 25%;
-  height: auto;
+    flex: 1 1 22%; /* Makes it flexible: grow, shrink, and take 22% of the space */
+    width: 22%; /* Limits scaling beyond its natural size */
+    height: auto; /* Maintains aspect ratio */
+    margin-left: 2%; /* Optional: Adjust horizontal spacing */
 }
 
 .main-title {
-  border-radius: 10px;
-  width: 45%;
-  height: auto;
+    flex: 1 1 45%; /* Makes it flexible */
+    width: 45%; /* Limits scaling */
+    height: auto; /* Maintains aspect ratio */
+    margin-left: 5%; /* Optional: Adjust spacing */
 }
 
 .reel {
+  border-radius: 7.5px;
   width: 20%;
   height: auto;
 }
 
-
-
-
-
-
-
-
-nav {
-    top: 82%;
-    text-align: center;
-    width: 100%;
-    position: absolute;
-    /*border: 2px solid red;*/
+/* Navigation Bar Wrapper */
+.nav-overlay {
+  width: 100%;
+  height: 80px;
+  background-image: url('blue-gradient-background.png'); /* Ensure correct path */
+  background-size: cover; /* Cover the entire nav bar */
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center; /* Center content vertically */
 }
 
-
+/* Main Navigation Bar */
 nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  align-items: center;
+  display: flex; /* Horizontal layout for buttons */
+  gap: 20px; /* Space between items */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  list-style: none; /* No bullet points */
 }
 
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-
+/* Navigation Links */
 nav ul li a {
-    color: black;
-    text-decoration: none;
-    font-size: 23px;
-    background-color: rgba(117, 201, 230, .7);
-    font-family: 'Ariel', Times, Calibri;
-    padding: 10px 20px;
-    font-weight: bold;
+  text-decoration: none;
+  color: black; /* Button text color */
+  font-size: 16px;
+  padding: 10px 15px; /* Add padding for buttons */
+  border-radius: 5px; /* Rounded corners */
+  background-color: rgba(0, 0, 0, 0.2); /* Semi-transparent button background */
+  font-weight: bold; /* Bold text */
+  transition: background-color 0.3s ease; /* Hover effect */
 }
 
+/* Hover Effect */
 nav ul li a:hover {
-    color: #1954f7;
+  background-color: rgba(0, 0, 0, 0.5); /* Darker background on hover */
 }
