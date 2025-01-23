@@ -282,10 +282,11 @@ body {
   width: 100%; /* Full width of the viewport */
   height: 100vh; /* Full height of the viewport */
   background-image: url('three-word-movie-reviews-background-pic.jpg'); /* Background image */
-  background-size: cover; /* Cover the entire container */
+  background-size: 150% auto;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent repeating the background */
   z-index: -1; /* Push it behind other elements */
+  transform: rotate(180deg); /* Rotate the entire container */
 }
 
 /* Main Images Container */
