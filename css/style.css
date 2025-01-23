@@ -275,13 +275,17 @@ body {
 }
 
 .main-images-container {
-    max-width: 1200px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-start;
-    flex-wrap: wrap; /* Allow items to wrap when necessary */
-    width: 100%; /* Ensures the container spans the full width of the viewport */
-    height: auto; /* Keeps height dynamic */
+  max-width: 1200px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-wrap: wrap; /* Allow items to wrap when necessary */
+  width: 100%; /* Ensures the container spans the full width of the viewport */
+  height: auto; /* Keeps height dynamic */
+  background-color: transparent; /* No background color */
+  z-index: 1; /* Ensure it doesn’t interfere with the background */
+  position: relative; /* Keep it positioned properly but behind important elements */
+  pointer-events: none; /* Optional: Prevent it from being a blocking layer */
 }
 
 .avatar {
@@ -298,14 +302,23 @@ body {
     margin-left: 5%; /* Optional: Adjust spacing */
 }
 
-.reel {
-  border-radius: 7.5px;
-  width: 20%;
-  height: auto;
+
+
+.background-container {
+       position: absolute; /* Allows the background to span the screen */
+       width: 100%; /* Full width of the viewport */
+       height: 100vh; /* Full height of the viewport */
+       background-image: url('three-word-movie-reviews-background-pic.jpg');
+       background-size: cover; /* Cover the entire container */
+       background-position: center; /* Center the image */
+       background-repeat: no-repeat; /* No repeat */
+       z-index: -1; /* Push it behind other elements */
 }
 
 /* Navigation Bar Wrapper */
 .nav-overlay {
+  position: relative;
+  z-index: 2;
   width: 100%;
   height: 80px;
   background-image: url('blue-gradient-background.png'); /* Ensure correct path */
@@ -314,26 +327,28 @@ body {
   background-position: center;
   display: flex;
   align-items: center; /* Center content vertically */
+  justify-content: center; /* Center the entire nav content horizontally */
 }
 
 /* Main Navigation Bar */
 nav ul {
   align-items: center;
   display: flex; /* Horizontal layout for buttons */
-  gap: 20px; /* Space between items */
+  gap: 40px; /* Space between items */
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
   list-style: none; /* No bullet points */
+  justify-content: center; /* Center the buttons within the nav */
 }
 
 /* Navigation Links */
 nav ul li a {
   text-decoration: none;
   color: black; /* Button text color */
-  font-size: 16px;
+  font-size: 19px;
   padding: 10px 15px; /* Add padding for buttons */
   border-radius: 5px; /* Rounded corners */
-  background-color: rgba(0, 0, 0, 0.2); /* Semi-transparent button background */
+  background-color: rgb(240, 240, 240);
   font-weight: bold; /* Bold text */
   transition: background-color 0.3s ease; /* Hover effect */
 }
