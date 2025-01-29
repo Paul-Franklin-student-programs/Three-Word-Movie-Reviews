@@ -276,48 +276,33 @@ body {
   font-family: Arial, sans-serif; /* Default font for text */
 }
 
-/* Background Container */
-.background-container {
-  position: absolute; /* Allows the background to span the screen */
-  width: 100%; /* Full width of the viewport */
-  height: 100vh; /* Full height of the viewport */
-  background-image: url('three-word-movie-reviews-background-pic.jpg'); /* Background image */
-  background-size: 150% auto;
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Prevent repeating the background */
-  z-index: -1; /* Push it behind other elements */
-  transform: rotate(180deg); /* Rotate the entire container */
+h1 {
+  margin: 0; /* Remove default margins */
 }
 
-/* Main Images Container */
-.main-images-container {
-  max-width: 1200px;
-  display: flex;
-  align-items: flex-end; /* Align images to the bottom of the container */
-  justify-content: flex-start; /* Align images to the left */
-  flex-wrap: wrap; /* Allow items to wrap if necessary */
-  width: 100%; /* Full width of the viewport */
-  height: auto; /* Keeps height dynamic */
-  background-color: transparent; /* Ensure no background color */
-  z-index: 1; /* Place it above the background */
-  position: relative; /* Maintain proper stacking */
-}
+/*.background-container {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background-image: url('three-word-movie-reviews-background-pic.jpg');
+  background-size: 150% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1;
+  transform: rotate(180deg);
+}*/
+
+
 
 /* Child Images (Avatar) */
-.avatar {
-  flex: 1 1 22%; /* Flexible size with 22% initial width */
-  width: 22%; /* Maximum width of the avatar */
-  height: auto; /* Maintain aspect ratio */
-  margin-left: 2%; /* Optional: Add horizontal spacing */
-}
+/*.avatar {
+  flex: 1 1 7%; Flexible size with 22% initial width
+  width: 7%;  Maximum width of the avatar
+  height: auto;  Maintain aspect ratio
+  margin-left: 2%; Optional: Add horizontal spacing
+}*/
 
-/* Child Images (Main Title) */
-.main-title {
-  flex: 1 1 45%; /* Flexible size with 45% initial width */
-  width: 45%; /* Maximum width of the title image */
-  height: auto; /* Maintain aspect ratio */
-  margin-left: 5%; /* Optional: Add horizontal spacing */
-}
+
 
 .nav-overlay {
   background-color: red;
@@ -360,4 +345,40 @@ nav ul li a {
 /* Hover Effect for Links */
 nav ul li a:hover {
   background-color: rgba(0, 0, 0, 0.5); /* Darker background on hover */
+}
+
+.title-container, .subtitle-container {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  padding: 5px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* Text styling */
+.styled-text {
+  font-weight: bold; /* Bold text */
+  text-align: center; /* Center text within itself */
+  color: blue;
+  font-size: 45px;
+  font-family: Georgia, serif;
+  margin-bottom: 10px;
+  margin: 0;
+}
+
+.styled-text-below-title {
+  text-align: center; /* Center text within itself */
+  color: red;
+  font-size: 26.2px;
+  font-family: Georgia, serif;
+  font-style: italic;
+  margin-top: 0;
+  margin: 0;
+}
+
+/* Ensure the default margins for <p> are removed */
+.title-container p, .subtitle-container p {
+  margin: 0; /* Eliminate extra margins around <p> tags */
 }
