@@ -278,23 +278,31 @@ body {
   align-items: flex-end;
   width: 100%;
   margin-top: 6.3%; /* Adjust spacing from the top */
-  gap: 5px; /* Adjusts the space between the two images */
+  gap: 17px; /* Adjusts the space between the two images */
 }
 
 /* Styling for both images */
 .about-image, .carbon-image {
   display: block;
   height: auto; /* Maintain aspect ratio */
-  border-radius: 15px; /* Rounded edges */
 }
 
 /* Adjust sizes individually */
 .about-image {
-  width: 20%; /* Adjust width */
-  border: 3px solid #ddd; /* Optional border */
+  border-radius: 15px;
+  margin-bottom: 4.75%;
+  width: 24%; /* Adjust width */
+  border: 3px solid #9f9f9f; /* Optional border */
 }
 
 .carbon-image {
-width: 30%;
-height: auto;
+  width: 31%;
+  height: auto;
+}
+
+.kale-image {
+  width: 27%;
+  border-radius: 15px;
+  height: auto;
+  border: 3px solid #9f9f9f;
 }
