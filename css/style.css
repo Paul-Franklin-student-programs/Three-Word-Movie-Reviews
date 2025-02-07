@@ -1,12 +1,5 @@
 /*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
 
-/* main.css 3.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
-/*
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
-
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -16,13 +9,6 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
-
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Customize the background color to match your design.
- */
 
 ::-moz-selection {
   background: #b3d4fc;
@@ -34,10 +20,6 @@ html {
   text-shadow: none;
 }
 
-/*
- * A better looking default horizontal rule
- */
-
 hr {
   display: block;
   height: 1px;
@@ -46,12 +28,6 @@ hr {
   margin: 1em 0;
   padding: 0;
 }
-
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
 
 audio,
 canvas,
@@ -62,19 +38,11 @@ video {
   vertical-align: middle;
 }
 
-/*
- * Remove default fieldset styles.
- */
-
 fieldset {
   border: 0;
   margin: 0;
   padding: 0;
 }
-
-/*
- * Allow only vertical resizing of textareas.
- */
 
 textarea {
   resize: vertical;
@@ -84,196 +52,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-/* ==========================================================================
-   Helper classes
-   ========================================================================== */
-
-/*
- * Hide visually and from screen readers
- */
-
-.hidden,
-[hidden] {
-  display: none !important;
-}
-
-/*
- * Hide only visually, but have it available for screen readers:
- * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
- *
- * 1. For long content, line feeds are not interpreted as spaces and small width
- *    causes content to wrap 1 word per line:
- *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
- */
-
-.visually-hidden {
-  border: 0;
-  clip: rect(0, 0, 0, 0);
-  height: 1px;
-  margin: -1px;
-  overflow: auto;
-  padding: 0;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-  /* 1 */
-}
-
-/*
- * Extends the .visually-hidden class to allow the element
- * to be focusable when navigated to via the keyboard:
- * https://www.drupal.org/node/897638
- */
-
-.visually-hidden.focusable:active,
-.visually-hidden.focusable:focus {
-  clip: auto;
-  height: auto;
-  margin: 0;
-  overflow: visible;
-  position: static;
-  white-space: inherit;
-  width: auto;
-}
-
-/*
- * Hide visually and from screen readers, but maintain layout
- */
-
-.invisible {
-  visibility: hidden;
-}
-
-/*
- * Clearfix: contain floats
- *
- * The use of `table` rather than `block` is only necessary if using
- * `::before` to contain the top-margins of child elements.
- */
-
-.clearfix::before,
-.clearfix::after {
-  content: "";
-  display: table;
-}
-
-.clearfix::after {
-  clear: both;
-}
-
-/* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
-   ========================================================================== */
-
-@media only screen and (min-width: 35em) {
-  /* Style adjustments for viewports that meet the condition */
-}
-
-@media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
-  /* Style adjustments for high resolution devices */
-}
-
-/* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   https://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
-
-@media print {
-  *,
-  *::before,
-  *::after {
-    background: #fff !important;
-    color: #000 !important;
-    /* Black prints faster */
-    box-shadow: none !important;
-    text-shadow: none !important;
-  }
-
-  a,
-  a:visited {
-    text-decoration: underline;
-  }
-
-  a[href]::after {
-    content: " (" attr(href) ")";
-  }
-
-  abbr[title]::after {
-    content: " (" attr(title) ")";
-  }
-
-  /*
-   * Don't show links that are fragment identifiers,
-   * or use the `javascript:` pseudo protocol
-   */
-  a[href^="#"]::after,
-  a[href^="javascript:"]::after {
-    content: "";
-  }
-
-  pre {
-    white-space: pre-wrap !important;
-  }
-
-  pre,
-  blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid;
-  }
-
-  tr,
-  img {
-    page-break-inside: avoid;
-  }
-
-  p,
-  h2,
-  h3 {
-    orphans: 3;
-    widows: 3;
-  }
-
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}*/
-
-/*table {
-  width: 100%;
-}*/
-
 body {
   margin: 0;
   padding: 0;
   overflow: auto;
-  position: relative; /* Ensures proper stacking context for z-index */
-  font-family: Arial, sans-serif; /* Default font for text */
+  position: relative;
+  font-family: Arial, sans-serif;
 }
 
 h1, p {
@@ -281,73 +65,50 @@ h1, p {
   padding: 0;
 }
 
-/*.background-container {
-  position: absolute;
-  width: 100%;
-  height: 100vh;
-  background-image: url('three-word-movie-reviews-background-pic.jpg');
-  background-size: 150% auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  z-index: -1;
-  transform: rotate(180deg);
-}*/
-
-
-
-/* Child Images (Avatar) */
-/*.avatar {
-  flex: 1 1 7%; Flexible size with 22% initial width
-  width: 7%;  Maximum width of the avatar
-  height: auto;  Maintain aspect ratio
-  margin-left: 2%; Optional: Add horizontal spacing
-}*/
-
-
-
+/* 🔹 Navigation Bar */
 .nav-overlay {
   background-color: red;
-  position: relative; /* Required for z-index to work */
-  z-index: 2; /* Ensure it stays above the background-container */
+  position: relative;
+  z-index: 2;
   width: 100%;
-  height: 80px; /* Fixed height of the navigation bar */
-  background-image: url('blue-gradient-background.png'); /* Gradient background */
-  background-size: cover; /* Cover the entire nav bar */
-  background-repeat: no-repeat; /* Prevent repeating the gradient */
-  background-position: center; /* Center the gradient */
-  display: flex; /* Flexbox layout */
-  align-items: center; /* Center content vertically */
-  justify-content: center; /* Center the nav content horizontally */
+  height: 80px;
+  background-image: url('blue-gradient-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Navigation Menu */
+/* 🔹 Navigation Menu */
 nav ul {
-  display: flex; /* Horizontal layout for menu items */
-  align-items: center; /* Center items vertically */
-  gap: 40px; /* Space between menu items */
-  margin: 0; /* Remove default margin */
-  padding: 0; /* Remove default padding */
-  list-style: none; /* Remove default bullet points */
-  justify-content: center; /* Center the menu within the nav */
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  justify-content: center;
 }
 
-/* Navigation Links */
+/* 🔹 Navigation Links */
 nav ul li a {
-  text-decoration: none; /* Remove underline from links */
-  color: black; /* Text color */
-  font-size: 19px; /* Font size for navigation links */
-  padding: 10px 15px; /* Add padding for clickable area */
-  border-radius: 5px; /* Rounded corners */
-  background-color: rgb(240, 240, 240); /* Light grey background */
-  font-weight: bold; /* Bold text */
-  transition: background-color 0.3s ease; /* Smooth hover effect */
+  text-decoration: none;
+  color: black;
+  font-size: 19px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  background-color: rgb(240, 240, 240);
+  font-weight: bold;
+  transition: background-color 0.3s ease;
 }
 
-/* Hover Effect for Links */
 nav ul li a:hover {
-  background-color: rgba(0, 0, 0, 0.5); /* Darker background on hover */
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
+/* 🔹 Page Titles */
 .title-container, .subtitle-container {
   display: flex;
   justify-content: center;
@@ -358,10 +119,10 @@ nav ul li a:hover {
   margin: 0;
 }
 
-/* Text styling */
+/* 🔹 Title Styling */
 .styled-text {
-  font-weight: bold; /* Bold text */
-  text-align: center; /* Center text within itself */
+  font-weight: bold;
+  text-align: center;
   color: blue;
   font-size: 45px;
   font-family: Georgia, serif;
@@ -371,7 +132,7 @@ nav ul li a:hover {
 }
 
 .styled-text-below-title {
-  text-align: center; /* Center text within itself */
+  text-align: center;
   color: red;
   font-size: 26.2px;
   font-family: Georgia, serif;
@@ -380,48 +141,152 @@ nav ul li a:hover {
   margin: 0;
 }
 
-/* Ensure the default margins for <p> are removed */
-.title-container p, .subtitle-container p {
-  margin: 0; /* Eliminate extra margins around <p> tags */
-}
-
 #movie-table-container {
-margin-top: 100px;
+  margin-top: 100px;
 }
 
-.about-image {
-    width: 300px; /* Adjust width as needed */
-    height: auto; /* Keeps original aspect ratio */
-    border-radius: 10px; /* Adds rounded corners */
-    display: block; /* Ensures correct positioning */
-    margin: 20px auto; /* Centers the image */
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
-    }
+/* 🔹 Search bar & dropdown styling */
+.search-sort-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 3px;
+  margin-left: 5%;
+}
 
+#search-box {
+  width: 320px;
+  height: 42px;
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid #007BFF;
+  border-radius: 8px;
+  outline: none;
+  text-align: center;
+}
+
+#sort-select {
+  width: 220px;
+  height: 42px;
+  font-size: 18px;
+  border: 2px solid #28A745;
+  border-radius: 8px;
+  outline: none;
+  background-color: #f8f9fa;
+}
+
+/* ==========================================================================
+   Table Styling
+   ========================================================================== */
+
+table {
+  width: 90%;
+  margin: 10px auto;
+  border-collapse: collapse;
+}
+
+/* 🔹 Table header (th) */
+th {
+  background-color: #F4A460; /* Default peach */
+  color: white;
+  padding: 12px;
+  text-align: left;
+  cursor: pointer;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+/* 🔹 Active sorting column (Changes color to baby blue) */
+th.active-sort {
+  background-color: #ADD8E6 !important; /* Baby blue when sorted */
+}
+
+/* 🔹 Thicker vertical lines (leftmost & rightmost columns) */
+th:first-child, td:first-child {
+  border-left: 6px solid black;
+}
+
+th:last-child, td:last-child {
+  border-right: 6px solid black;
+}
+
+/* 🔹 Hover effect: Lighter peach */
+th:hover {
+  background-color: #FFDAB9;
+}
+
+/* 🔹 Table data (td) */
+td {
+  padding: 10px;
+  text-align: left;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+}
+
+/* 🔹 Sorting Icons */
+.sort-icon {
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 5px;
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+---------------------------------------about page
+
+/* Full-page centering */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers content horizontally */
+  justify-content: center; /* Centers content vertically */
+  height: 100vh; /* Makes sure the page takes full viewport height */
+  margin: 0;
+}
+
+/* Centering the image container */
 .main-photo-container {
   display: flex;
-  justify-content: center;
+  justify-content: center; /* Centers image inside container */
+  align-items: center;
+  width: 100%;
+  margin-top: 6.3%; /* Adjust this if you need more spacing */
 }
 
-.photo-text {
-  font-family: Verdana, sans-serif; /* Friendly & readable */
-  font-size: 22px; /* Comfortable text size */
-  color: #333; /* Dark gray for a softer look */
-  padding: 20px; /* Adds space around text */
-  width: 60%; /* Keeps it readable and not too wide */
-  margin: 20px auto; /* Centers it on the page */
-  line-height: 1.6; /* Improves readability */
-  text-align: center; /* Centers the text */
-  background-color: #d4f8e8; /* Soft pastel green */
-  border-radius: 15px; /* Soft rounded corners */
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15); /* Gentle shadow */
-  width: 60%;
-  margin: 20px auto;
+/* Styling the portfolio image */
+.about-image {
+  width: 20%; /* Adjust width */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 15px; /* Rounded edges */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow */
+  border: 3px solid #ddd; /* Optional border */
+  display: block;
+}
+
+.about-page-text {
+  display: flex;
+  flex-direction: column; /* Centers image inside container */
+  align-items: center;
+  width: 100%;
+  margin-top: 2%; /* Adjust this if you need more spacing */
 }
 
 .photo-headline {
-  font-size: 50px; /* Makes the text large */
-  font-weight: bold; /* Makes the text bold */
-  text-align: center; /* Centers the text horizontally */
+  font-weight: bold;
+  font-size: 32px;
+  display: block;
 }
 
+.photo-text {
+  font-size: 23px;
+  display: block;
+  background-color: rgba(0, 240, 85, 0.32);/* Dark semi-transparent background */
+  padding: 12px; /* Adds space inside the container */
+  border-radius: 7px; /* Optional: rounded edges */
+  text-align: center; /* Optional: centers the text */
+  width: 45%; /* Adjust width */
+  margin: 10px auto; /* Centers container */
+  }

@@ -1,40 +1,21 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
+  <link rel="icon" type="image/png" href="img/director-clapboard.png">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Three-Word Movie Reviews</title>
-  <style>
-  </style>
   <link rel="stylesheet" href="css/style.css">
-  <meta name="description" content="Three-word movie reviews and grades for movies across all genres.">
-  <meta property="og:title" content="">
-  <meta property="og:type" content="">
-  <meta property="og:url" content="">
-  <meta property="og:image" content="">
-  <meta property="og:image:alt" content="">
-
-  <link rel="icon" href="img/director-clapboard.png" type="image/png">
-  <link rel="apple-touch-icon" href="img/director-clapboard.png">
-
-  <link rel="manifest" href="site.webmanifest">
-  <meta name="theme-color" content="#fafafa">
 </head>
-
 
 <body>
 
-<header>
-</header>
-
-<div class="background-container">
-</div>
-
+<header></header>
 
 <div class="title-container">
   <div class="styled-text">
-    <p> Three-Word Movie Reviews</p>
+    <p>Three-Word Movie Reviews</p>
   </div>
 </div>
 
@@ -43,7 +24,6 @@
     <p>Find flicks, save time!</p>
   </div>
 </div>
-
 
 <div class="nav-overlay">
   <nav>
@@ -55,9 +35,25 @@
   </nav>
 </div>
 
-<div id="movie-table-container">
-  <script src="js/movieReviews.js"></script>
+<!-- 🔎 Search and Sorting UI -->
+<div class="search-sort-container">
+  <input type="text" id="search-box" placeholder="Search movies...">
+  <select id="sort-select">
+    <option value="">Sort By</option>
+    <option value="title">Title</option>
+    <option value="letter grade">Grade</option>
+    <option value="year">Year</option>
+    <option value="runtime">Runtime</option>
+    <option value="director">Director</option>
+    <option value="genre">Genre</option>
+    <option value="rotten tomatoes score">Rotten Tomatoes Score</option>
+    <option value="oscars won">Oscars Won</option>
+  </select>
 </div>
+
+<div id="movie-table-container"></div>
+
+<script src="js/movieReviews.js"></script>
 
 </body>
 
