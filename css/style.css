@@ -251,7 +251,7 @@ body {
   align-items: center;
   width: 100%;
   position: relative;
-  margin: 0;
+  margin-bottom: 2.25%;
 }
 
 .photo-headline {
@@ -260,16 +260,19 @@ body {
   display: block;
   position: relative;
   margin-top: 5.8%;
+  font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .photo-text {
   font-size: 27.75px;
   display: block;
   background-color: rgba(0, 240, 85, 0.32);/* Dark semi-transparent background */
-  border-radius: 7px; /* Optional: rounded edges */
+  border-radius: 12px; /* Optional: rounded edges */
   text-align: center; /* Optional: centers the text */
-  width: 65%; /* Adjust width */
+  width: 56%; /* Adjust width */
   position: relative;
+  font-family: "Segoe UI", Arial, sans-serif;
+  padding: 10px;
   }
 
 .main-photo-container {
