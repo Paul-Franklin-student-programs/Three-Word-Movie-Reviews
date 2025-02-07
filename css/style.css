@@ -52,12 +52,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-body {
+
+* {
   margin: 0;
   padding: 0;
-  overflow: auto;
-  position: relative;
-  font-family: Arial, sans-serif;
+  box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
 h1, p {
@@ -244,7 +243,6 @@ body {
   align-items: center; /* Centers content horizontally */
   justify-content: center; /* Centers content vertically */
   height: 100vh; /* Makes sure the page takes full viewport height */
-  margin: 0;
 }
 
 .about-page-text {
@@ -252,24 +250,26 @@ body {
   flex-direction: column; /* Centers image inside container */
   align-items: center;
   width: 100%;
-  margin-top: 2%; /* Adjust this if you need more spacing */
+  position: relative;
+  margin: 0;
 }
 
 .photo-headline {
   font-weight: bold;
-  font-size: 32px;
+  font-size: 62px;
   display: block;
+  position: relative;
+  margin-top: 5.8%;
 }
 
 .photo-text {
-  font-size: 23px;
+  font-size: 27.75px;
   display: block;
   background-color: rgba(0, 240, 85, 0.32);/* Dark semi-transparent background */
-  padding: 12px; /* Adds space inside the container */
   border-radius: 7px; /* Optional: rounded edges */
   text-align: center; /* Optional: centers the text */
-  width: 45%; /* Adjust width */
-  margin: 10px auto; /* Centers container */
+  width: 65%; /* Adjust width */
+  position: relative;
   }
 
 .main-photo-container {
@@ -277,7 +277,6 @@ body {
   justify-content: center; /* Centers the images together as a unit */
   align-items: flex-end;
   width: 100%;
-  margin-top: 6.3%; /* Adjust spacing from the top */
   gap: 17px; /* Adjusts the space between the two images */
 }
 
@@ -305,4 +304,15 @@ body {
   border-radius: 15px;
   height: auto;
   border: 3px solid #9f9f9f;
+}
+
+.guitar-tab-image {
+  position: absolute;
+  filter: blur(2px); /* Adjust blur intensity */
+  opacity: 0.9;
+  z-index: -1;
+  width: 90%;
+  overflow: hidden;
+  left: 7%;
+  margin-bottom: 20%;
 }
