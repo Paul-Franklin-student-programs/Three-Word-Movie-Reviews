@@ -237,7 +237,7 @@ td {
 ---------------------------------------about page
 
 /* Full-page centering */
-body {
+.home-page {
   display: flex;
   flex-direction: column;
   align-items: center; /* Centers content horizontally */
@@ -246,66 +246,69 @@ body {
 }
 
 .about-page-text {
-  display: flex;
-  flex-direction: column; /* Centers image inside container */
-  align-items: center;
-  width: 100%;
   position: relative;
-  margin-bottom: 2.25%;
+  border: 2px solid red;
+  display: flex; /* Enables flexbox */
+  flex-direction: column; /* Stacks children vertically */
+  align-items: center; /* Centers children horizontally */
+  padding-bottom: 30px;
+  padding-top: 7px;
 }
 
 .photo-headline {
   font-weight: bold;
-  font-size: 62px;
+  font-size: 30px;
   display: block;
-  position: relative;
-  margin-top: 5.8%;
+  text-align: center;
   font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .photo-text {
-  font-size: 27.75px;
+  font-size: 21px;
   display: block;
   background-color: rgba(0, 240, 85, 0.32);/* Dark semi-transparent background */
   border-radius: 12px; /* Optional: rounded edges */
   text-align: center; /* Optional: centers the text */
-  width: 56%; /* Adjust width */
-  position: relative;
   font-family: "Segoe UI", Arial, sans-serif;
-  padding: 10px;
+  padding: 1%;
   }
 
 .main-photo-container {
+  align-items: flex-start;
   display: flex;
   justify-content: center; /* Centers the images together as a unit */
-  align-items: flex-end;
   width: 100%;
   gap: 17px; /* Adjusts the space between the two images */
+  padding-top: 10px;
+  border: 2px solid blue;
 }
 
 /* Styling for both images */
-.about-image, .carbon-image {
+.about-image, .kale-image {
   display: block;
   height: auto; /* Maintain aspect ratio */
+  width: 20%;
+  max-width: 100%; /* Ensures images stay within their natural size */
+}
+
+.carbon-image {
+  display: block;
+  height: auto;
+  width: 35%;
+  max-width: 100%;
+  position: relative;
+  z-index: 1;
 }
 
 /* Adjust sizes individually */
 .about-image {
   border-radius: 15px;
-  margin-bottom: 4.75%;
-  width: 24%; /* Adjust width */
+  margin-bottom: 4.75%; /* Adjust width */
   border: 3px solid #9f9f9f; /* Optional border */
 }
 
-.carbon-image {
-  width: 31%;
-  height: auto;
-}
-
 .kale-image {
-  width: 27%;
   border-radius: 15px;
-  height: auto;
   border: 3px solid #9f9f9f;
 }
 
@@ -313,9 +316,9 @@ body {
   position: absolute;
   filter: blur(2px); /* Adjust blur intensity */
   opacity: 0.9;
-  z-index: -1;
+  z-index: 0;
   width: 90%;
   overflow: hidden;
   left: 7%;
-  margin-bottom: 20%;
+  bottom: 100%;
 }
