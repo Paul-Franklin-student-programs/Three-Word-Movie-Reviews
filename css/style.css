@@ -108,37 +108,73 @@ nav ul li a:hover {
 }
 
 /* 🔹 Page Titles */
-.title-container, .subtitle-container {
-  display: flex;
-  justify-content: center;
-  width: 100vw;
-  padding: 10px;
-  text-align: center;
-  box-sizing: border-box;
-  margin: 0;
+.title-container  {
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0;
+    display: flex;
+    /*border: 2px solid green;*/ /* Debugging border */
+}
+
+.subtitle-container {
+    /*border: 2px solid purple;*/
+    text-align: center;
+    }
+
+    /* 🔹 Subtitle Styling */
+.styled-text-below-title {
+    color: red;
+    font-size: 33px;
+    font-family: Georgia, serif;
+    font-style: italic;
+    margin: 0;
+    /*border: 2px solid yellow;*/
 }
 
 /* 🔹 Title Styling */
 .styled-text {
-  font-weight: bold;
-  text-align: center;
-  color: blue;
-  font-size: 45px;
-  font-family: Georgia, serif;
-  margin-bottom: 10px;
-  margin: 0;
-  margin-top: 13px;
+    font-weight: bold;
+    margin: 0;
+    font-size: 50px;
+    font-family: 'Georgia', serif;
+    color: blue;
 }
 
-.styled-text-below-title {
-  text-align: center;
-  color: red;
-  font-size: 26.2px;
-  font-family: Georgia, serif;
-  font-style: italic;
-  margin-top: 0;
-  margin: 0;
+/* 🔹 Main Display Container */
+.main-display-container {
+    /*border: 2px black;*/ /* Debugging border */
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+    justify-content: space-evenly; /* Spaces children evenly */
+    max-width: 2500px; /* Adjust as needed */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px;
+    box-sizing: border-box;
 }
+
+
+/* 🔹 Image Container */
+.movies-in-a-hurry {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Ensures image is centered */
+    width: fit-content; /* Shrinks to match image size */
+    /*border: 2px solid blue;*/ /* Debugging border */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* 🔹 Image Styling */
+img[src="img/cinephiles-in-a-hurry.webp"] {
+    max-width: 300px; /* Prevents it from becoming too large */
+    width: auto; /* Keeps its natural width */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Removes inline spacing */
+    border-radius: 10px; /* Optional rounded corners */
+}
+
+
 
 #movie-table-container {
   margin-top: 100px;
@@ -253,7 +289,6 @@ td {
   align-items: center; /* Centers children horizontally */
   padding-bottom: 30px;
   padding-top: 7px;
-  position: relative
   }
 
 
