@@ -2,9 +2,87 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Three-Word Movie Reviews</title>
-  <link rel="icon" href="img/director-clapboard.png" type="image/png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3-Paragraph Movie Rants</title>
+  <style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f5f5f5;
+        margin: 0;
+        padding: 20px;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+
+    .blog-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .blog-post {
+        background-color: #e0e0e0;
+        border-radius: 15px;
+        padding: 20px;
+        width: 100%;
+        text-align: left;
+        margin-bottom: 30px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .blog-title {
+        font-family: 'Georgia', serif;
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .blog-content {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .blog-image {
+        width: 100%;
+        border-radius: 10px;
+        margin-top: 15px;
+        display: block;
+    }
+  </style>
 </head>
 <body>
+
+<h1>3-Paragraph Movie Rants</h1>
+
+<div class="blog-container">
+
+  <div class="blog-post">
+    <div class="blog-title">Inception: A Dreamy Headache</div>
+    <div class="blog-content">
+      <p>Christopher Nolan’s *Inception* is the cinematic equivalent of a Rubik’s cube. It’s smart, but you spend half the movie trying to figure out what’s going on instead of enjoying it.</p>
+      <p>Leonardo DiCaprio’s performance is solid, but the movie drowns itself in exposition. The rules keep changing, and the audience is expected to keep up with layers upon layers of dream logic.</p>
+      <p>By the time the top is spinning at the end, I was too exhausted to care whether it fell. *Inception* is brilliant but a little too pleased with itself.</p>
+    </div>
+    <img class="blog-image" src="inception.jpg" alt="Inception Movie">
+  </div>
+
+  <div class="blog-post">
+    <div class="blog-title">The Dark Knight: Cinema's Apex</div>
+    <div class="blog-content">
+      <p>*The Dark Knight* isn’t just a superhero movie—it’s a full-fledged crime epic. Heath Ledger’s Joker is chaotic perfection, commanding every scene he’s in.</p>
+      <p>The pacing, the intensity, the action—it all builds into one of the greatest movies ever made. Even Christian Bale’s sometimes silly Batman voice can’t diminish the impact.</p>
+      <p>It’s a movie that’s endlessly rewatchable. The cinematography, the dialogue, the performances—it all comes together in an almost flawless way.</p>
+    </div>
+    <img class="blog-image" src="darkknight.jpg" alt="The Dark Knight Movie">
+  </div>
+
+</div>
+
 </body>
 </html>
