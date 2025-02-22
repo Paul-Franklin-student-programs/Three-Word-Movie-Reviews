@@ -4,7 +4,6 @@ const includedCapHeaders = ["Title", "Review", "Grade", "Year", "Runtime", "Dire
 
 // Get references to key UI elements
 const container = document.getElementById("movie-table-container");
-const searchBox = document.getElementById("search-box");
 const sortSelect = document.getElementById("sort-select");
 
 let movieData = []; // Stores the JSON movie data
@@ -13,7 +12,10 @@ let currentSortOrder = "asc"; // Default sorting order
 
 // Function to build the table dynamically
 function buildTable(data) {
-    // Clear existing table if any
+    // Save reference to the currently active column before rebuilding
+    const activeColumn = document.querySelector("th.active-sort")?.dataset.column;
+
+    // Clear existing table
     container.innerHTML = "";
 
     const table = document.createElement("table");
@@ -27,11 +29,13 @@ function buildTable(data) {
         th.textContent = header;
         th.dataset.column = includedLowHeaders[index];
 
-        // Create sorting arrow icon
-        const icon = document.createElement("span");
-        icon.classList.add("sort-icon");
-        icon.innerHTML = "▲"; // Default up arrow
-        th.appendChild(icon);
+        th.classList.add("default-sort");
+
+        // Restore active class if it's the selected column
+        if (th.dataset.column === activeColumn) {
+            th.classList.remove("default-sort");
+            th.classList.add("active-sort");
+        }
 
         // Click event for sorting
         th.addEventListener("click", () => {
@@ -55,14 +59,22 @@ function buildTable(data) {
 
 // Function to toggle sorting of columns
 function toggleSort(column, clickedHeader) {
+
     const headers = document.querySelectorAll("th");
 
-    // Reset all headers except the clicked one
-    headers.forEach(th => {
-        th.classList.remove("active-sort");
-        th.style.backgroundColor = "#F4A460"; // Reset to peach color
-        th.querySelector(".sort-icon").innerHTML = "▲"; // Reset arrows
-    });
+
+        headers.forEach(th => {
+            th.classList.remove("active-sort", "default-sort");  // Remove active class from all
+            th.classList.add("default-sort");    // Ensure default style is applied
+        });
+
+
+
+
+        // Apply active class only to the clicked column
+        clickedHeader.classList.remove("default-sort");  // Remove default color
+        clickedHeader.classList.add("active-sort");      // Highlight selected column
+
 
     // Determine sorting order
     if (currentSortColumn === column) {
@@ -71,11 +83,6 @@ function toggleSort(column, clickedHeader) {
         currentSortColumn = column;
         currentSortOrder = "asc";
     }
-
-    // Apply active sorting style
-    clickedHeader.classList.add("active-sort");
-    clickedHeader.style.backgroundColor = "#ADD8E6"; // Baby blue when active
-    clickedHeader.querySelector(".sort-icon").innerHTML = currentSortOrder === "asc" ? "▼" : "▲"; // Flip arrow
 
     // Sort movie data
     movieData.sort((a, b) => {
@@ -97,16 +104,7 @@ function toggleSort(column, clickedHeader) {
     buildTable(movieData);
 }
 
-// Function to filter table based on search input
-function filterTable() {
-    const searchTerm = searchBox.value.toLowerCase();
-    const filteredMovies = movieData.filter(film =>
-        includedLowHeaders.some(header =>
-            (film[header] || "").toLowerCase().includes(searchTerm)
-        )
-    );
-    buildTable(filteredMovies);
-}
+
 
 // Function to handle dropdown sorting
 function handleDropdownSort() {
@@ -127,8 +125,7 @@ function handleDropdownSort() {
     }
 }
 
-// Event listeners
-searchBox.addEventListener("input", filterTable);
+// Event listener
 sortSelect.addEventListener("change", handleDropdownSort);
 
 // Fetch JSON data and build the table initially
