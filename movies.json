@@ -1041,6 +1041,90 @@
       "rotten tomatoes score": "88%",
       "mpaa rating": "PG-13",
       "oscars won": 11
+    },
+    {
+      "title": "As Good as It Gets",
+      "review": "Preposterous Character Arcs",
+      "letter grade": "C-",
+      "year": 1997,
+      "runtime": "139 minutes",
+      "director": "James L. Brooks",
+      "genre": "Comedy-Drama",
+      "rotten tomatoes score": "85%",
+      "mpaa rating": "PG-13",
+      "oscars won": 2
+    },
+    {
+      "title": "Good Will Hunting",
+      "review": "Intelligence and Immorality",
+      "letter grade": "B",
+      "year": 1997,
+      "runtime": "126 minutes",
+      "director": "Gus Van Sant",
+      "genre": "Drama",
+      "rotten tomatoes score": "97%",
+      "mpaa rating": "R",
+      "oscars won": 2
+    },
+    {
+      "title": "American Beauty",
+      "review": "A+",
+      "letter grade": "Absolute, Unequivocal Masterwork",
+      "year": 1999,
+      "runtime": "122 minutes",
+      "director": "Sam Mendes",
+      "genre": "Drama",
+      "rotten tomatoes score": "87%",
+      "mpaa rating": "R",
+      "oscars won": 5
+    },
+    {
+      "title": "Saving Private Ryan",
+      "review": "Gritty But Melodramatic",
+      "letter grade": "B",
+      "year": 1998,
+      "runtime": "169 minutes",
+      "director": "Steven Spielberg",
+      "genre": "War",
+      "rotten tomatoes score": "93%",
+      "mpaa rating": "R",
+      "oscars won": 5
+    },
+    {
+      "title": "Life Is Beautiful",
+      "review": "Softens The Holocaust",
+      "letter grade": "C-",
+      "year": 1997,
+      "runtime": "116 minutes",
+      "director": "Roberto Benigni",
+      "genre": "Comedy-Drama",
+      "rotten tomatoes score": "80%",
+      "mpaa rating": "PG-13",
+      "oscars won": 3
+    },
+    {
+      "title": "The Cider House Rules",
+      "review": "C+",
+      "letter grade": "Sweet But Unfocused",
+      "year": 1999,
+      "runtime": "126 minutes",
+      "director": "Lasse Hallström",
+      "genre": "Drama",
+      "rotten tomatoes score": "71%",
+      "mpaa rating": "PG-13",
+      "oscars won": 2
+    },
+    {
+      "title": "The Sixth Sense",
+      "review": "Shyamalan Peaks Early",
+      "letter grade": "B+",
+      "year": 1999,
+      "runtime": "107 minutes",
+      "director": "M. Night Shyamalan",
+      "genre": "Thriller",
+      "rotten tomatoes score": "86%",
+      "mpaa rating": "PG-13",
+      "oscars won": 0
     }
   ]
 }
