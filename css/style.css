@@ -286,7 +286,7 @@ td {
 
 .photo-headline {
   font-weight: bold;
-  font-size: 35px;
+  font-size: 47.5px;
   display: block;
   text-align: center;
   position: relative;
@@ -308,11 +308,11 @@ td {
   }
 
 .main-photo-container {
-  align-items: flex-start;
+  align-items: flex-end;
   display: flex;
   justify-content: center; /* Centers the images together as a unit */
   width: 100%;
-  gap: 17px; /* Adjusts the space between the two images */
+  gap: 100px; /* Adjusts the space between the two images */
   padding-top: 10px;
   /*border: 2px solid blue;*/
 }
@@ -328,16 +328,16 @@ td {
 .carbon-image {
   display: block;
   height: auto;
-  width: 35%;
+  width: 30%;
   max-width: 100%;
   position: relative;
   z-index: 1;
+  margin-top: 2%;
 }
 
 /* Adjust sizes individually */
 .about-image {
   border-radius: 15px;
-  margin-bottom: 4.75%; /* Adjust width */
   border: 3px solid #9f9f9f; /* Optional border */
 }
 
@@ -349,7 +349,7 @@ td {
 
 .about-page-background {
     position: absolute;  /* Keeps it in place */
-    top: 52%;
+    top: 51%;
     left: 0;
     width: 100vw; /* Stretches full width */
     height: 100px; /* Set your desired height */
