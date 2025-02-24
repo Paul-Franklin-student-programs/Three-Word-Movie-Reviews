@@ -456,37 +456,37 @@
       "title": "The Godfather",
       "review": "Chilling Psychopathy Convention",
       "letter grade": "A-",
-      "year": 1972,
+      "year": "1972",
       "runtime": "175 minutes",
       "director": "Francis Ford Coppola",
       "genre": "Crime",
       "rotten tomatoes score": "97%",
       "mpaa rating": "R",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "The Sting",
       "review": "Marvelous, Ya Falla?",
       "letter grade": "A",
-      "year": 1973,
+      "year": "1973",
       "runtime": "129 minutes",
       "director": "George Roy Hill",
       "genre": "Comedy",
       "rotten tomatoes score": "92%",
       "mpaa rating": "PG",
-      "oscars won": 7
+      "oscars won": "7"
     },
     {
       "title": "The Exorcist",
       "review": "RIP Burstyn's Spine",
       "letter grade": "B+",
-      "year": 1973,
+      "year": "1973",
       "runtime": "122 minutes",
       "director": "William Friedkin",
       "genre": "Horror",
       "rotten tomatoes score": "84%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Jaws",
@@ -498,18 +498,18 @@
       "genre": "Adventure",
       "rotten tomatoes score": "97%",
       "mpaa rating": "PG",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "The Godfather Part II",
       "review": "Mesmerizing; One-Ups Original",
       "letter grade": "A",
-      "year": 1974,
+      "year": "1974",
       "runtime": "202 minutes",
       "director": "Francis Ford Coppola",
       "rotten tomatoes score": "96%",
       "mpaa rating": "R",
-      "oscars won": 6
+      "oscars won": "6"
     },
     {
       "title": "The Conversation",
@@ -521,802 +521,798 @@
       "genre": "Mystery",
       "rotten tomatoes score": "98%",
       "mpaa rating": "PG",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "One Flew Over the Cuckoo's Nest",
       "review": "Louise Fletcher Shines",
       "letter grade": "A-",
-      "year": 1975,
+      "year": "1975",
       "runtime": "133 minutes",
       "director": "Milos Forman",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Rocky",
       "review": "Somewhat Thin Classic",
       "letter grade": "B+",
-      "year": 1976,
+      "year": "1976",
       "runtime": "119 minutes",
       "director": "John G. Avildsen",
       "genre": "Sport",
       "rotten tomatoes score": "92%",
       "mpaa rating": "PG",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "Taxi Driver",
       "review": "Memorable But Overrated",
       "letter grade": "B",
-      "year": 1976,
+      "year": "1976",
       "runtime": "114 minutes",
       "director": "Martin Scorsese",
       "genre": "Crime, Drama",
       "rotten tomatoes score": "96%",
       "mpaa rating": "R",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "Annie Hall",
       "review": "Hilarious, Fetching, Erudite",
       "letter grade": "A-",
-      "year": 1977,
+      "year": "1977",
       "runtime": "93 minutes",
       "director": "Woody Allen",
       "genre": "Comedy",
       "rotten tomatoes score": "97%",
       "mpaa rating": "PG",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "The Deer Hunter",
       "review": "One Perfect Scene",
       "letter grade": "B+",
-      "year": 1978,
+      "year": "1978",
       "runtime": "183 minutes",
       "director": "Michael Cimino",
       "genre": "War",
       "rotten tomatoes score": "86%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Star Wars",
       "review": "Unique, Visually-Stunning Game-Changer",
       "letter grade": "A",
-      "year": 1977,
+      "year": "1977",
       "runtime": "121 minutes",
       "director": "George Lucas",
       "genre": "Sci-Fi",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG",
-      "oscars won": 7
+      "oscars won": "7"
     },
     {
       "title": "Kramer vs. Kramer",
       "review": "Hire A Babysitter?",
       "letter grade": "A-",
-      "year": 1979,
+      "year": "1979",
       "runtime": "105 minutes",
       "director": "Robert Benton",
       "genre": "Drama",
       "rotten tomatoes score": "89%",
       "mpaa rating": "PG",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Ordinary People",
       "review": "Flawless Shattering Screenplay",
       "letter grade": "A+",
-      "year": 1980,
+      "year": "1980",
       "runtime": "124 minutes",
       "director": "Robert Redford",
       "genre": "Drama",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "Raging Bull",
       "review": "Intense, Disorganized, Maundering",
       "letter grade": "B",
-      "year": 1980,
+      "year": "1980",
       "runtime": "129 minutes",
       "director": "Martin Scorsese",
       "genre": "Biography",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Raiders of the Lost Ark",
       "review": "It's Face-Meltingly Good!",
       "letter grade": "A-",
-      "year": 1981,
+      "year": "1981",
       "runtime": "115 minutes",
       "director": "Steven Spielberg",
       "genre": "Action, Adventure",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "On Golden Pond",
       "review": "Heartfelt, Slightly Hallmark-y",
       "letter grade": "A",
-      "year": 1981,
+      "year": "1981",
       "runtime": "109 minutes",
       "director": "Mark Rydell",
       "genre": "Drama",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "E.T. the Extra-Terrestrial",
       "review": "Gripping Spielbergian Voyage",
       "letter grade": "B+",
-      "year": 1982,
+      "year": "1982",
       "runtime": "115 minutes",
       "director": "Steven Spielberg",
       "genre": "Family",
       "rotten tomatoes score": "99%",
       "mpaa rating": "PG",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "Gandhi",
       "review": "Masterpiece. Kingsley Triumphs",
       "letter grade": "A+",
-      "year": 1982,
+      "year": "1982",
       "runtime": "191 minutes",
       "director": "Richard Attenborough",
       "genre": "Biography",
       "rotten tomatoes score": "85%",
       "mpaa rating": "PG",
-      "oscars won": 8
+      "oscars won": "8"
     },
     {
       "title": "Terms of Endearment",
       "review": "Inescapably A Melodrama",
       "letter grade": "B",
-      "year": 1983,
+      "year": "1983",
       "runtime": "132 minutes",
       "director": "James L. Brooks",
       "genre": "Comedy",
       "rotten tomatoes score": "84%",
       "mpaa rating": "PG",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Tender Mercies",
       "review": "Lost And Found",
       "letter grade": "A-",
-      "year": 1983,
+      "year": "1983",
       "runtime": "92 minutes",
       "director": "Bruce Beresford",
       "genre": "Drama, Music",
       "rotten tomatoes score": "85%",
       "mpaa rating": "PG",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Amadeus",
       "review": "That Was Mozart",
       "letter grade": "A-",
-      "year": 1984,
+      "year": "1984",
       "runtime": "160 minutes",
       "director": "Milos Forman",
       "genre": "Biography, Drama, History",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
-      "oscars won": 8
+      "oscars won": "8"
     },
     {
       "title": "Out of Africa",
       "review": "Aesthetics Over Emotion",
       "letter grade": "B-",
-      "year": 1985,
+      "year": "1985",
       "runtime": "161 minutes",
       "director": "Sydney Pollack",
       "genre": "Biography, Drama, Romance",
       "rotten tomatoes score": "63%",
       "mpaa rating": "PG",
-      "oscars won": 7
+      "oscars won": "7"
     },
     {
       "title": "Witness",
       "review": "Intoxicating Impossible Love",
       "letter grade": "A",
-      "year": 1985,
+      "year": "1985",
       "runtime": "112 minutes",
       "director": "Peter Weir",
       "genre": "Crime, Drama, Romance",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
-
-
     {
       "title": "Hannah and Her Sisters",
       "review": "Has Its Moments",
       "letter grade": "B",
-      "year": 1986,
+      "year": "1986",
       "runtime": "106 minutes",
       "director": "Woody Allen",
       "genre": "Comedy",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG-13",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "The Last Emperor",
       "review": "Visually, It's Perfect",
       "letter grade": "A-",
-      "year": 1987,
+      "year": "1987",
       "runtime": "163 minutes",
       "director": "Bernardo Bertolucci",
       "genre": "Biography",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG-13",
-      "oscars won": 9
+      "oscars won": "9"
     },
     {
       "title": "Fatal Attraction",
       "review": "Overrated, Gratuitous, Ridiculous",
       "letter grade": "D+",
-      "year": 1987,
+      "year": "1987",
       "runtime": "119 minutes",
       "director": "Adrian Lyne",
       "genre": "Thriller",
       "rotten tomatoes score": "76%",
       "mpaa rating": "R",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "Mississippi Burning",
       "review": "Terrible Script, Unfortunately",
       "letter grade": "C-",
-      "year": 1988,
+      "year": "1988",
       "runtime": "128 minutes",
       "director": "Alan Parker",
       "genre": "Drama",
       "rotten tomatoes score": "84%",
       "mpaa rating": "R",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "Driving Miss Daisy",
       "review": "What A Joy",
       "letter grade": "B+",
-      "year": 1989,
+      "year": "1989",
       "runtime": "99 minutes",
       "director": "Bruce Beresford",
       "genre": "Drama",
       "rotten tomatoes score": "85%",
       "mpaa rating": "PG",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "My Left Foot",
       "review": "Daniel Day Lewis!",
       "letter grade": "B+",
-      "year": 1989,
+      "year": "1989",
       "runtime": "103 minutes",
       "director": "Jim Sheridan",
       "genre": "Biography, Drama",
       "rotten tomatoes score": "98%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
-
-
     {
       "title": "Dances with Wolves",
       "review": "Avoid Director's Cut",
       "letter grade": "A",
-      "year": 1990,
+      "year": "1990",
       "runtime": "181 minutes",
       "director": "Kevin Costner",
       "genre": "Western",
       "rotten tomatoes score": "87%",
       "mpaa rating": "PG-13",
-      "oscars won": 7
+      "oscars won": "7"
     },
     {
       "title": "Ghost",
       "review": "Silly But Entertaining",
       "letter grade": "B-",
-      "year": 1990,
+      "year": "1990",
       "runtime": "127 minutes",
       "director": "Jerry Zucker",
       "genre": "Romance",
       "rotten tomatoes score": "74%",
       "mpaa rating": "PG-13",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Goodfellas",
       "review": "Underdeveloped Characters... Stylish!",
       "letter grade": "A-",
-      "year": 1990,
+      "year": "1990",
       "runtime": "146 minutes",
       "director": "Martin Scorsese",
       "genre": "Crime",
       "rotten tomatoes score": "96%",
       "mpaa rating": "R",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "The Silence of the Lambs",
       "review": "Iconic, Fascinating, Well-Acted",
       "letter grade": "A",
-      "year": 1991,
+      "year": "1991",
       "runtime": "118 minutes",
       "director": "Jonathan Demme",
       "genre": "Horror",
       "rotten tomatoes score": "95%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Beauty and the Beast",
       "review": "Stockholm Syndrome? Shame",
       "letter grade": "B",
-      "year": 1991,
+      "year": "1991",
       "runtime": "84 minutes",
       "director": "Gary Trousdale, Kirk Wise",
       "genre": "Animation, Family, Fantasy",
       "rotten tomatoes score": "94%",
       "mpaa rating": "G",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "A Few Good Men",
       "review": "Maudlin, Stagy, Self-Satisfied",
       "letter grade": "C",
-      "year": 1992,
+      "year": "1992",
       "runtime": "138 minutes",
       "director": "Rob Reiner",
       "genre": "Drama",
       "rotten tomatoes score": "83%",
       "mpaa rating": "R",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "Howards End",
       "review": "Opulent But Distant",
       "letter grade": "C+",
-      "year": 1992,
+      "year": "1992",
       "runtime": "140 minutes",
       "director": "James Ivory",
       "genre": "Romance",
       "rotten tomatoes score": "94%",
       "mpaa rating": "PG",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "The Fugitive",
       "review": "I Don't Care",
       "letter grade": "B+",
-      "year": 1993,
+      "year": "1993",
       "runtime": "130 minutes",
       "director": "Andrew Davis",
       "genre": "Action",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG-13",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "Schindler's List",
       "review": "Astonishing Versus Melodramatic",
       "letter grade": "B",
-      "year": 1993,
+      "year": "1993",
       "runtime": "195 minutes",
       "director": "Steven Spielberg",
       "genre": "Historical Drama",
       "rotten tomatoes score": "98%",
       "mpaa rating": "R",
-      "oscars won": 7
+      "oscars won": "7"
     },
     {
       "title": "The Piano",
       "review": "Wow. Different. Absorbing.",
       "letter grade": "B+",
-      "year": 1993,
+      "year": "1993",
       "runtime": "121 minutes",
       "director": "Jane Campion",
       "genre": "Drama/Romance",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "In the Name of the Father",
       "review": "Clumsy. Lacking Meaning",
       "letter grade": "C+",
-      "year": 1993,
+      "year": "1993",
       "runtime": "133 minutes",
       "director": "Jim Sheridan",
       "genre": "Biographical Drama",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "Forrest Gump",
       "review": "Jenny's The Core",
       "letter grade": "B+",
-      "year": 1994,
+      "year": "1994",
       "runtime": "142 minutes",
       "director": "Robert Zemeckis",
       "genre": "Drama",
       "rotten tomatoes score": "71%",
       "mpaa rating": "PG-13",
-      "oscars won": 6
+      "oscars won": "6"
     },
     {
       "title": "Pulp Fiction",
       "review": "Many Sections Disappoint",
       "letter grade": "B-",
-      "year": 1994,
+      "year": "1994",
       "runtime": "154 minutes",
       "director": "Quentin Tarantino",
       "genre": "Crime",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "Braveheart",
       "review": "Powerful, Funny, Iconic",
       "letter grade": "A",
-      "year": 1995,
+      "year": "1995",
       "runtime": "178 minutes",
       "director": "Mel Gibson",
       "genre": "Action",
       "rotten tomatoes score": "75%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Apollo 13",
       "review": "Decent, Technically-Astute Entertainment",
       "letter grade": "B",
-      "year": 1995,
+      "year": "1995",
       "runtime": "140 minutes",
       "director": "Ron Howard",
       "genre": "Historical Drama",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Babe",
       "review": "That'll Do, Sentimentality",
       "letter grade": "B",
-      "year": 1995,
+      "year": "1995",
       "runtime": "91 minutes",
       "director": "Chris Noonan",
       "genre": "Family",
       "rotten tomatoes score": "97%",
       "mpaa rating": "G",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "The English Patient",
       "review": "It's Not Bad",
       "letter grade": "B+",
-      "year": 1996,
+      "year": "1996",
       "runtime": "162 minutes",
       "director": "Anthony Minghella",
       "genre": "Romantic Drama",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
-      "oscars won": 9
+      "oscars won": "9"
     },
     {
       "title": "Fargo",
       "review": "A Coen Classic",
       "letter grade": "A",
-      "year": 1996,
+      "year": "1996",
       "runtime": "98 minutes",
       "director": "Joel Coen",
       "genre": "Crime",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Titanic",
       "review": "Screenplay Is Iceberg",
       "letter grade": "C+",
-      "year": 1997,
+      "year": "1997",
       "runtime": "195 minutes",
       "director": "James Cameron",
       "genre": "Romantic Drama",
       "rotten tomatoes score": "88%",
       "mpaa rating": "PG-13",
-      "oscars won": 11
+      "oscars won": "11"
     },
     {
       "title": "As Good as It Gets",
       "review": "Preposterous Character Arcs",
       "letter grade": "C-",
-      "year": 1997,
+      "year": "1997",
       "runtime": "139 minutes",
       "director": "James L. Brooks",
       "genre": "Comedy-Drama",
       "rotten tomatoes score": "85%",
       "mpaa rating": "PG-13",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "Good Will Hunting",
       "review": "Intelligence and Immorality",
       "letter grade": "B",
-      "year": 1997,
+      "year": "1997",
       "runtime": "126 minutes",
       "director": "Gus Van Sant",
       "genre": "Drama",
       "rotten tomatoes score": "97%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "American Beauty",
       "review": "Absolute, Unequivocal Masterwork",
       "letter grade": "A+",
-      "year": 1999,
+      "year": "1999",
       "runtime": "122 minutes",
       "director": "Sam Mendes",
       "genre": "Drama",
       "rotten tomatoes score": "87%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Saving Private Ryan",
       "review": "Gritty But Melodramatic",
       "letter grade": "B",
-      "year": 1998,
+      "year": "1998",
       "runtime": "169 minutes",
       "director": "Steven Spielberg",
       "genre": "War",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Life Is Beautiful",
       "review": "Softens The Holocaust",
       "letter grade": "C-",
-      "year": 1997,
+      "year": "1997",
       "runtime": "116 minutes",
       "director": "Roberto Benigni",
       "genre": "Comedy-Drama",
       "rotten tomatoes score": "80%",
       "mpaa rating": "PG-13",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "The Cider House Rules",
       "review": "Sweet But Unfocused",
       "letter grade": "C+",
-      "year": 1999,
+      "year": "1999",
       "runtime": "126 minutes",
       "director": "Lasse Hallström",
       "genre": "Drama",
       "rotten tomatoes score": "71%",
       "mpaa rating": "PG-13",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "The Sixth Sense",
       "review": "Shyamalan Peaks Early",
       "letter grade": "B+",
-      "year": 1999,
+      "year": "1999",
       "runtime": "107 minutes",
       "director": "M. Night Shyamalan",
       "genre": "Thriller",
       "rotten tomatoes score": "86%",
       "mpaa rating": "PG-13",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "Gladiator",
       "review": "Self-Serious, Murky, Joyless",
       "letter grade": "C",
-      "year": 2000,
+      "year": "2000",
       "runtime": "155 minutes",
       "director": "Ridley Scott",
       "genre": "Drama",
       "rotten tomatoes score": "77%",
       "mpaa rating": "R",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Erin Brockovich",
       "review": "I Heartily Recommend!",
       "letter grade": "A",
-      "year": 2000,
+      "year": "2000",
       "runtime": "131 minutes",
       "director": "Steven Soderbergh",
       "genre": "Biographical Drama",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "Traffic",
       "review": "Compromising Plot Issues",
       "letter grade": "B-",
-      "year": 2000,
+      "year": "2000",
       "runtime": "147 minutes",
       "director": "Steven Soderbergh",
       "genre": "Crime",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "A Beautiful Mind",
       "review": "Empathy For Psychosis",
       "letter grade": "A",
-      "year": 2001,
+      "year": "2001",
       "runtime": "135 minutes",
       "director": "Ron Howard",
       "genre": "Biographical Drama",
       "rotten tomatoes score": "74%",
       "mpaa rating": "PG-13",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "In the Bedroom",
       "review": "Good Not Great",
       "letter grade": "B",
-      "year": 2001,
+      "year": "2001",
       "runtime": "130 minutes",
       "director": "Todd Field",
       "genre": "Drama",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "review": "Visually, It's Divine",
       "letter grade": "A",
-      "year": 2001,
+      "year": "2001",
       "runtime": "178 minutes",
       "director": "Peter Jackson",
       "genre": "Fantasy-Adventure",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG-13",
-      "oscars won": 4
+      "oscars won": "4"
     },
     {
       "title": "Chicago",
       "review": "Fun, Stylish, Cynical",
       "letter grade": "A-",
-      "year": 2002,
+      "year": "2002",
       "runtime": "113 minutes",
       "director": "Rob Marshall",
       "genre": "Musical Crime Comedy-Drama",
       "rotten tomatoes score": "86%",
       "mpaa rating": "PG-13",
-      "oscars won": 6
+      "oscars won": "6"
     },
     {
       "title": "Gangs of New York",
       "review": "Good... Set Design?",
       "letter grade": "C",
-      "year": 2002,
+      "year": "2002",
       "runtime": "167 minutes",
       "director": "Martin Scorsese",
       "genre": "Historical Drama",
       "rotten tomatoes score": "73%",
       "mpaa rating": "R",
-      "oscars won": 0
+      "oscars won": "0"
     },
     {
       "title": "The Hours",
       "review": "An Intriguing Bummer",
       "letter grade": "A-",
-      "year": 2002,
+      "year": "2002",
       "runtime": "110 minutes",
       "director": "Stephen Daldry",
       "genre": "Drama",
       "rotten tomatoes score": "79%",
       "mpaa rating": "PG-13",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "The Lord of the Rings: The Two Towers",
       "review": "One Spectacular Battle",
       "letter grade": "A-",
-      "year": 2002,
+      "year": "2002",
       "runtime": "179 minutes",
       "director": "Peter Jackson",
       "genre": "Fantasy Adventure",
       "rotten tomatoes score": "95%",
       "mpaa rating": "PG-13",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "The Lord of the Rings: The Return of the King",
       "review": "Use The Eagles?",
       "letter grade": "B+",
-      "year": 2003,
+      "year": "2003",
       "runtime": "201 minutes",
       "director": "Peter Jackson",
       "genre": "Fantasy Adventure",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG-13",
-      "oscars won": 11
+      "oscars won": "11"
     },
     {
       "title": "Mystic River",
       "review": "Too Many Coincidences",
       "letter grade": "B",
-      "year": 2003,
+      "year": "2003",
       "runtime": "138 minutes",
       "director": "Clint Eastwood",
       "genre": "Mystery",
       "rotten tomatoes score": "88%",
       "mpaa rating": "R",
-      "oscars won": 2
+      "oscars won": "2"
     },
     {
       "title": "The Aviator",
       "review": "Sleek But Meandering",
       "letter grade": "C+",
-      "year": 2004,
+      "year": "2004",
       "runtime": "170 minutes",
       "director": "Martin Scorsese",
       "genre": "Biographical Drama",
       "rotten tomatoes score": "86%",
       "mpaa rating": "PG-13",
-      "oscars won": 5
+      "oscars won": "5"
     },
     {
       "title": "Sideways",
       "review": "Meh. Good Premise",
       "letter grade": "C+",
-      "year": 2004,
+      "year": "2004",
       "runtime": "126 minutes",
       "director": "Alexander Payne",
       "genre": "Comedy-Drama",
       "rotten tomatoes score": "97%",
       "mpaa rating": "R",
-      "oscars won": 1
+      "oscars won": "1"
     },
     {
       "title": "Brokeback Mountain",
       "review": "Beautifully Captures Intimacy",
       "letter grade": "A",
-      "year": 2005,
+      "year": "2005",
       "runtime": "134 minutes",
       "director": "Ang Lee",
       "genre": "Romantic Drama",
       "rotten tomatoes score": "88%",
       "mpaa rating": "R",
-      "oscars won": 3
+      "oscars won": "3"
     },
     {
       "title": "Capote",
       "review": "A Human Hindenburg",
       "letter grade": "A-",
-      "year": 2005,
+      "year": "2005",
       "runtime": "114 minutes",
       "director": "Bennett Miller",
       "genre": "Biographical Drama",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
-      "oscars won": 1
+      "oscars won": "1"
     }
   ]
 }
