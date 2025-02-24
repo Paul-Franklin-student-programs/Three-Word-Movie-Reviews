@@ -507,6 +507,7 @@
       "year": "1974",
       "runtime": "202 minutes",
       "director": "Francis Ford Coppola",
+      "genre": "Crime",
       "rotten tomatoes score": "96%",
       "mpaa rating": "R",
       "oscars won": "6"
@@ -530,6 +531,7 @@
       "year": "1975",
       "runtime": "133 minutes",
       "director": "Milos Forman",
+      "genre": "Drama",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "5"
@@ -860,8 +862,8 @@
     },
     {
       "title": "Beauty and the Beast",
-      "review": "Stockholm Syndrome? Shame",
-      "letter grade": "B",
+      "review": "Perfect Songs, Score",
+      "letter grade": "B+",
       "year": "1991",
       "runtime": "84 minutes",
       "director": "Gary Trousdale, Kirk Wise",

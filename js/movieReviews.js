@@ -102,10 +102,16 @@ function toggleSort(column, clickedHeader) {
             valB = gradeValues[valB];
         }
 
-          if (column === "rotten tomatoes score") {
-              valA = valA.replace("%", "");
-              valB = valB.replace("%", "");
-          }
+        if (column === "rotten tomatoes score") {
+            valA = valA.replace("%", "");
+            valB = valB.replace("%", "");
+        }
+
+        if (column === "runtime") {
+          valA = valA.replace(" minutes", "");
+          valB = valB.replace(" minutes", "");
+        }
+
 
         // Convert numbers for numerical sorting
         if (!isNaN(valA) && !isNaN(valB)) {
