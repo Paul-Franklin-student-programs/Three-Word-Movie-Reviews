@@ -42,6 +42,7 @@ function buildTable(data) {
             toggleSort(th.dataset.column, th);
         });
 
+
         headerRow.appendChild(th);
     });
 
@@ -54,6 +55,8 @@ function buildTable(data) {
         });
     });
 
+
+   //toggleSort(Title, document.querySelector(`[data-column="Title"]`);)
     container.appendChild(table);
 }
 
@@ -158,5 +161,13 @@ fetch("movies.json")
     .then(data => {
         movieData = data.films;
         buildTable(movieData);
+
+ // Now that the table is built, call toggleSort on a default column
+        const defaultColumnName = "title"; // Change to your preferred default column
+        const defaultTh = document.querySelector(`th[data-column="${defaultColumnName}"]`);
+
+        if (defaultTh) {
+            toggleSort(defaultColumnName, defaultTh);
+        }
     })
     .catch(error => console.error("Error loading JSON data:", error));
