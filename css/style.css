@@ -300,7 +300,7 @@ td {
   position: relative;
   z-index: 3;
   font-family: "Segoe UI", Arial, sans-serif;
-  margin-top: 5%;
+  margin-top: 2.5%;
 }
 
 .photo-text {
@@ -309,7 +309,7 @@ td {
   font-size: 21px;
   font-width: 500;
   display: block;
-  background-color: rgba(141, 235, 166, 1);/* Dark semi-transparent background */
+  background-color: #B5F1BE;
   border-radius: 12px; /* Optional: rounded edges */
   text-align: center; /* Optional: centers the text */
   font-family: "Segoe UI", Arial, sans-serif;
