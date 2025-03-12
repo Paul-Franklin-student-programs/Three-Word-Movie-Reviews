@@ -27,7 +27,6 @@
       "short synopsis": "a gritty Western about revenge, redemption, and the consequences of violence, following a retired gunslinger who takes on one last job.",
       "genre": "Western",
       "paul's pick": "Yes",
-      "streaming availability": "Hulu effective 10.15.2024",
       "rotten tomatoes score": "96%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -41,7 +40,7 @@
       "director": "Clint Eastwood",
       "main cast": "Clint Eastwood, Hilary Swank, Morgan Freeman",
       "short synopsis": "a gritty Western about revenge, redemption, and the consequences of violence, following a retired gunslinger who takes on one last job.",
-      "genre": "Sports Drama",
+      "genre": "Sports",
       "paul's pick": "Yes",
       "streaming availability": "Netflix, Amazon Prime, Plex, and Tubi, effective 11.9.24",
       "rotten tomatoes score": "90%",
@@ -59,7 +58,6 @@
       "short synopsis": "a gritty Western about revenge, redemption, and the consequences of violence, following a retired gunslinger who takes on one last job.",
       "genre": "Docudrama",
       "paul's pick": "Yes",
-      "streaming availability": "Hulu effective 10.15.2024",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -75,7 +73,6 @@
       "short synopsis": "a gritty Western about revenge, redemption, and the consequences of violence, following a retired gunslinger who takes on one last job.",
       "genre": "Action",
       "paul's pick": "Yes",
-      "streaming availability": "Hulu effective 10.15.2024",
       "rotten tomatoes score": "61%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -99,7 +96,7 @@
       "year": "2023",
       "runtime": "105 minutes",
       "director": "Jonathan Glazer",
-      "genre": "Historical Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "92%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -123,7 +120,7 @@
       "year": "2023",
       "runtime": "181 minutes",
       "director": "Christopher Nolan",
-      "genre": "Biographical Drama",
+      "genre": "Biography",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "7"
@@ -183,7 +180,7 @@
       "year": "2009",
       "runtime": "162 minutes",
       "director": "James Cameron",
-      "genre": "Science Fiction",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "82%",
       "mpaa rating": "PG-13",
       "oscars won": "3"
@@ -243,7 +240,7 @@
       "year": "2003",
       "runtime": "101 minutes",
       "director": "Gore Verbinski",
-      "genre": "Action Adventure",
+      "genre": "Adventure",
       "rotten tomatoes score": "80%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -267,7 +264,7 @@
       "year": "2015",
       "runtime": "124 minutes",
       "director": "Colin Trevorrow",
-      "genre": "Action-Adventure",
+      "genre": "Adventure",
       "rotten tomatoes score": "71%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -516,7 +513,7 @@
       "title": "The Conversation",
       "review": "Immersive, Suspenseful, Clever",
       "letter grade": "B+",
-      "year": 1974,
+      "year": "1974",
       "runtime": "113 minutes",
       "director": "Francis Ford Coppola",
       "genre": "Mystery",
@@ -543,7 +540,7 @@
       "year": "1976",
       "runtime": "119 minutes",
       "director": "John G. Avildsen",
-      "genre": "Sport",
+      "genre": "Sports",
       "rotten tomatoes score": "92%",
       "mpaa rating": "PG",
       "oscars won": "3"
@@ -555,7 +552,7 @@
       "year": "1976",
       "runtime": "114 minutes",
       "director": "Martin Scorsese",
-      "genre": "Crime, Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "96%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -639,7 +636,7 @@
       "year": "1981",
       "runtime": "115 minutes",
       "director": "Steven Spielberg",
-      "genre": "Action, Adventure",
+      "genre": "Adventure",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG",
       "oscars won": "5"
@@ -699,7 +696,7 @@
       "year": "1983",
       "runtime": "92 minutes",
       "director": "Bruce Beresford",
-      "genre": "Drama, Music",
+      "genre": "Drama",
       "rotten tomatoes score": "85%",
       "mpaa rating": "PG",
       "oscars won": "2"
@@ -711,7 +708,7 @@
       "year": "1984",
       "runtime": "160 minutes",
       "director": "Milos Forman",
-      "genre": "Biography, Drama, History",
+      "genre": "Drama",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "8"
@@ -723,7 +720,7 @@
       "year": "1985",
       "runtime": "161 minutes",
       "director": "Sydney Pollack",
-      "genre": "Biography, Drama, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "63%",
       "mpaa rating": "PG",
       "oscars won": "7"
@@ -735,7 +732,7 @@
       "year": "1985",
       "runtime": "112 minutes",
       "director": "Peter Weir",
-      "genre": "Crime, Drama, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -807,7 +804,7 @@
       "year": "1989",
       "runtime": "103 minutes",
       "director": "Jim Sheridan",
-      "genre": "Biography, Drama",
+      "genre": "Biography",
       "rotten tomatoes score": "98%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -867,7 +864,7 @@
       "year": "1991",
       "runtime": "84 minutes",
       "director": "Gary Trousdale, Kirk Wise",
-      "genre": "Animation, Family, Fantasy",
+      "genre": "Animation",
       "rotten tomatoes score": "94%",
       "mpaa rating": "G",
       "oscars won": "2"
@@ -903,7 +900,7 @@
       "year": "1993",
       "runtime": "130 minutes",
       "director": "Andrew Davis",
-      "genre": "Action",
+      "genre": "Thriller",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -915,7 +912,7 @@
       "year": "1993",
       "runtime": "195 minutes",
       "director": "Steven Spielberg",
-      "genre": "Historical Drama",
+      "genre": "History",
       "rotten tomatoes score": "98%",
       "mpaa rating": "R",
       "oscars won": "7"
@@ -927,7 +924,7 @@
       "year": "1993",
       "runtime": "121 minutes",
       "director": "Jane Campion",
-      "genre": "Drama/Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "3"
@@ -939,7 +936,7 @@
       "year": "1993",
       "runtime": "133 minutes",
       "director": "Jim Sheridan",
-      "genre": "Biographical Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -975,7 +972,7 @@
       "year": "1995",
       "runtime": "178 minutes",
       "director": "Mel Gibson",
-      "genre": "Action",
+      "genre": "War",
       "rotten tomatoes score": "75%",
       "mpaa rating": "R",
       "oscars won": "5"
@@ -987,7 +984,7 @@
       "year": "1995",
       "runtime": "140 minutes",
       "director": "Ron Howard",
-      "genre": "Historical Drama",
+      "genre": "History",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG",
       "oscars won": "2"
@@ -1011,7 +1008,7 @@
       "year": "1996",
       "runtime": "162 minutes",
       "director": "Anthony Minghella",
-      "genre": "Romantic Drama",
+      "genre": "Romance",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
       "oscars won": "9"
@@ -1035,7 +1032,7 @@
       "year": "1997",
       "runtime": "195 minutes",
       "director": "James Cameron",
-      "genre": "Romantic Drama",
+      "genre": "Romance",
       "rotten tomatoes score": "88%",
       "mpaa rating": "PG-13",
       "oscars won": "11"
@@ -1047,7 +1044,7 @@
       "year": "1997",
       "runtime": "139 minutes",
       "director": "James L. Brooks",
-      "genre": "Comedy-Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "85%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -1095,7 +1092,7 @@
       "year": "1997",
       "runtime": "116 minutes",
       "director": "Roberto Benigni",
-      "genre": "Comedy-Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "80%",
       "mpaa rating": "PG-13",
       "oscars won": "3"
@@ -1143,7 +1140,7 @@
       "year": "2000",
       "runtime": "131 minutes",
       "director": "Steven Soderbergh",
-      "genre": "Biographical Drama",
+      "genre": "Biography",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1167,7 +1164,7 @@
       "year": "2001",
       "runtime": "135 minutes",
       "director": "Ron Howard",
-      "genre": "Biographical Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "74%",
       "mpaa rating": "PG-13",
       "oscars won": "4"
@@ -1191,7 +1188,7 @@
       "year": "2001",
       "runtime": "178 minutes",
       "director": "Peter Jackson",
-      "genre": "Fantasy-Adventure",
+      "genre": "Fantasy",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG-13",
       "oscars won": "4"
@@ -1203,7 +1200,7 @@
       "year": "2002",
       "runtime": "113 minutes",
       "director": "Rob Marshall",
-      "genre": "Musical Crime Comedy-Drama",
+      "genre": "Musical",
       "rotten tomatoes score": "86%",
       "mpaa rating": "PG-13",
       "oscars won": "6"
@@ -1215,7 +1212,7 @@
       "year": "2002",
       "runtime": "167 minutes",
       "director": "Martin Scorsese",
-      "genre": "Historical Drama",
+      "genre": "History",
       "rotten tomatoes score": "73%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1239,7 +1236,7 @@
       "year": "2002",
       "runtime": "179 minutes",
       "director": "Peter Jackson",
-      "genre": "Fantasy Adventure",
+      "genre": "Fantasy",
       "rotten tomatoes score": "95%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -1251,7 +1248,7 @@
       "year": "2003",
       "runtime": "201 minutes",
       "director": "Peter Jackson",
-      "genre": "Fantasy Adventure",
+      "genre": "Fantasy",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG-13",
       "oscars won": "11"
@@ -1275,7 +1272,7 @@
       "year": "2004",
       "runtime": "170 minutes",
       "director": "Martin Scorsese",
-      "genre": "Biographical Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "86%",
       "mpaa rating": "PG-13",
       "oscars won": "5"
@@ -1287,7 +1284,7 @@
       "year": "2004",
       "runtime": "126 minutes",
       "director": "Alexander Payne",
-      "genre": "Comedy-Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "97%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1299,7 +1296,7 @@
       "year": "2005",
       "runtime": "134 minutes",
       "director": "Ang Lee",
-      "genre": "Romantic Drama",
+      "genre": "Romance",
       "rotten tomatoes score": "88%",
       "mpaa rating": "R",
       "oscars won": "3"
@@ -1311,7 +1308,7 @@
       "year": "2005",
       "runtime": "114 minutes",
       "director": "Bennett Miller",
-      "genre": "Biographical Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1347,7 +1344,7 @@
       "year": "2006",
       "runtime": "103 minutes",
       "director": "Stephen Frears",
-      "genre": "Biography, Drama, History",
+      "genre": "History",
       "rotten tomatoes score": "97%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -1371,7 +1368,7 @@
       "year": "2007",
       "runtime": "96 minutes",
       "director": "Jason Reitman",
-      "genre": "Comedy, Drama, Romance",
+      "genre": "Comedy",
       "rotten tomatoes score": "94%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -1395,7 +1392,7 @@
       "year": "2005",
       "runtime": "164 minutes",
       "director": "Steven Spielberg",
-      "genre": "Action, Drama, History",
+      "genre": "History",
       "rotten tomatoes score": "78%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1407,22 +1404,10 @@
       "year": "2008",
       "runtime": "124 minutes",
       "director": "Stephen Daldry",
-      "genre": "Drama, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "63%",
       "mpaa rating": "R",
       "oscars won": "1"
-    },
-    {
-      "title": "The Dark Knight",
-      "review": "Egregious Plot Holes",
-      "letter grade": "C",
-      "year": "2008",
-      "runtime": "152 minutes",
-      "director": "Christopher Nolan",
-      "genre": "Action, Crime, Drama",
-      "rotten tomatoes score": "94%",
-      "mpaa rating": "PG-13",
-      "oscars won": "2"
     },
     {
       "title": "Milk",
@@ -1431,7 +1416,7 @@
       "year": "2008",
       "runtime": "128 minutes",
       "director": "Gus Van Sant",
-      "genre": "Biography, Drama",
+      "genre": "Biography",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -1443,7 +1428,7 @@
       "year": "2008",
       "runtime": "122 minutes",
       "director": "Ron Howard",
-      "genre": "Biography, Drama, History",
+      "genre": "History",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1455,7 +1440,7 @@
       "year": "2008",
       "runtime": "166 minutes",
       "director": "David Fincher",
-      "genre": "Drama, Fantasy, Romance",
+      "genre": "Fantasy",
       "rotten tomatoes score": "71%",
       "mpaa rating": "PG-13",
       "oscars won": "3"
@@ -1467,7 +1452,7 @@
       "year": "2009",
       "runtime": "131 minutes",
       "director": "Kathryn Bigelow",
-      "genre": "Drama, Thriller, War",
+      "genre": "War",
       "rotten tomatoes score": "97%",
       "mpaa rating": "R",
       "oscars won": "6"
@@ -1479,7 +1464,7 @@
       "year": "2008",
       "runtime": "120 minutes",
       "director": "Danny Boyle",
-      "genre": "Drama, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "91%",
       "mpaa rating": "R",
       "oscars won": "8"
@@ -1491,7 +1476,7 @@
       "year": "2009",
       "runtime": "153 minutes",
       "director": "Quentin Tarantino",
-      "genre": "Adventure, Drama, War",
+      "genre": "Adventure",
       "rotten tomatoes score": "89%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1503,7 +1488,7 @@
       "year": "2009",
       "runtime": "106 minutes",
       "director": "Joel Coen, Ethan Coen",
-      "genre": "Comedy, Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1515,7 +1500,7 @@
       "year": "2009",
       "runtime": "109 minutes",
       "director": "Jason Reitman",
-      "genre": "Drama, Romance",
+      "genre": "Comedy",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1527,7 +1512,7 @@
       "year": "2010",
       "runtime": "118 minutes",
       "director": "Tom Hooper",
-      "genre": "Biography, Drama, History",
+      "genre": "History",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -1539,7 +1524,7 @@
       "year": "2010",
       "runtime": "108 minutes",
       "director": "Darren Aronofsky",
-      "genre": "Drama, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1551,7 +1536,7 @@
       "year": "2010",
       "runtime": "148 minutes",
       "director": "Christopher Nolan",
-      "genre": "Action, Adventure, Sci-Fi",
+      "genre": "Action",
       "rotten tomatoes score": "87%",
       "mpaa rating": "PG-13",
       "oscars won": "4"
@@ -1563,7 +1548,7 @@
       "year": "2010",
       "runtime": "106 minutes",
       "director": "Lisa Cholodenko",
-      "genre": "Comedy, Drama, Romance",
+      "genre": "Comedy",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1575,7 +1560,7 @@
       "year": "2010",
       "runtime": "94 minutes",
       "director": "Danny Boyle",
-      "genre": "Biography, Drama, Adventure",
+      "genre": "Biography",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1587,7 +1572,7 @@
       "year": "2010",
       "runtime": "120 minutes",
       "director": "David Fincher",
-      "genre": "Biography, Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG-13",
       "oscars won": "3"
@@ -1599,7 +1584,7 @@
       "year": "2010",
       "runtime": "110 minutes",
       "director": "Joel Coen, Ethan Coen",
-      "genre": "Drama, Western",
+      "genre": "Western",
       "rotten tomatoes score": "95%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -1611,7 +1596,7 @@
       "year": "2011",
       "runtime": "100 minutes",
       "director": "Michel Hazanavicius",
-      "genre": "Comedy, Drama, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "95%",
       "mpaa rating": "PG-13",
       "oscars won": "5"
@@ -1623,7 +1608,7 @@
       "year": "2011",
       "runtime": "115 minutes",
       "director": "Alexander Payne",
-      "genre": "Comedy, Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "87%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1635,7 +1620,7 @@
       "year": "2011",
       "runtime": "133 minutes",
       "director": "Bennett Miller",
-      "genre": "Biography, Drama, Sport",
+      "genre": "Sports",
       "rotten tomatoes score": "94%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -1647,7 +1632,7 @@
       "year": "2011",
       "runtime": "139 minutes",
       "director": "Terrence Malick",
-      "genre": "Drama, Fantasy",
+      "genre": "Drama",
       "rotten tomatoes score": "84%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -1659,7 +1644,7 @@
       "year": "2012",
       "runtime": "150 minutes",
       "director": "Steven Spielberg",
-      "genre": "Biography, Drama, History",
+      "genre": "Biography",
       "rotten tomatoes score": "89%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -1671,22 +1656,10 @@
       "year": "2012",
       "runtime": "122 minutes",
       "director": "David O. Russell",
-      "genre": "Comedy, Drama, Romance",
+      "genre": "Comedy",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
       "oscars won": "1"
-    },
-    {
-      "title": "Django Unchained",
-      "review": "Waltz Steals Show",
-      "letter grade": "B-",
-      "year": "2012",
-      "runtime": "165 minutes",
-      "director": "Quentin Tarantino",
-      "genre": "Drama, Western",
-      "rotten tomatoes score": "87%",
-      "mpaa rating": "R",
-      "oscars won": "2"
     },
     {
       "title": "Amour",
@@ -1695,7 +1668,7 @@
       "year": "2012",
       "runtime": "127 minutes",
       "director": "Michael Haneke",
-      "genre": "Drama, Romance",
+      "genre": "Drama",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -1707,7 +1680,7 @@
       "year": "2013",
       "runtime": "115 minutes",
       "director": "Alexander Payne",
-      "genre": "Adventure, Comedy, Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "91%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1719,7 +1692,7 @@
       "year": "2013",
       "runtime": "126 minutes",
       "director": "Spike Jonze",
-      "genre": "Drama, Romance, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1731,7 +1704,7 @@
       "year": "2013",
       "runtime": "91 minutes",
       "director": "Alfonso Cuarón",
-      "genre": "Drama, Sci-Fi, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG-13",
       "oscars won": "7"
@@ -1743,7 +1716,7 @@
       "year": "2013",
       "runtime": "134 minutes",
       "director": "Steve McQueen",
-      "genre": "Biography, Drama, History",
+      "genre": "Biography",
       "rotten tomatoes score": "95%",
       "mpaa rating": "R",
       "oscars won": "3"
@@ -1755,7 +1728,7 @@
       "year": "2013",
       "runtime": "117 minutes",
       "director": "Jean-Marc Vallée",
-      "genre": "Biography, Drama",
+      "genre": "Biography",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "3"
@@ -1767,7 +1740,7 @@
       "year": "2013",
       "runtime": "138 minutes",
       "director": "David O. Russell",
-      "genre": "Crime, Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1791,7 +1764,7 @@
       "year": "2014",
       "runtime": "113 minutes",
       "director": "Morten Tyldum",
-      "genre": "Biography, Drama, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "90%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -1803,7 +1776,7 @@
       "year": "2014",
       "runtime": "123 minutes",
       "director": "James Marsh",
-      "genre": "Biography, Drama, Romance",
+      "genre": "Biography",
       "rotten tomatoes score": "79%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -1815,7 +1788,7 @@
       "year": "2015",
       "runtime": "130 minutes",
       "director": "Adam McKay",
-      "genre": "Biography, Comedy, Drama",
+      "genre": "Biography",
       "rotten tomatoes score": "89%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1827,34 +1800,10 @@
       "year": "2015",
       "runtime": "111 minutes",
       "director": "John Crowley",
-      "genre": "Drama, Romance",
+      "genre": "Drama",
       "rotten tomatoes score": "97%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
-    },
-    {
-      "title": "Mad Max: Fury Road",
-      "review": "Execrable Screenplay. Shame!",
-      "letter grade": "C",
-      "year": "2015",
-      "runtime": "120 minutes",
-      "director": "George Miller",
-      "genre": "Action, Adventure, Sci-Fi",
-      "rotten tomatoes score": "97%",
-      "mpaa rating": "R",
-      "oscars won": "6"
-    },
-    {
-      "title": "The Revenant",
-      "review": "Visceral, Occasionally Perfect",
-      "letter grade": "B",
-      "year": "2015",
-      "runtime": "156 minutes",
-      "director": "Alejandro González Iñárritu",
-      "genre": "Action, Adventure, Drama",
-      "rotten tomatoes score": "78%",
-      "mpaa rating": "R",
-      "oscars won": "3"
     },
     {
       "title": "Room",
@@ -1863,7 +1812,7 @@
       "year": "2015",
       "runtime": "118 minutes",
       "director": "Lenny Abrahamson",
-      "genre": "Drama, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1875,7 +1824,7 @@
       "year": "2016",
       "runtime": "139 minutes",
       "director": "Mel Gibson",
-      "genre": "Biography, Drama, History",
+      "genre": "Biography",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -1887,7 +1836,7 @@
       "year": "2016",
       "runtime": "118 minutes",
       "director": "Garth Davis",
-      "genre": "Biography, Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "84%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -1911,7 +1860,7 @@
       "year": "2017",
       "runtime": "123 minutes",
       "director": "Guillermo del Toro",
-      "genre": "Drama, Fantasy, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -1923,7 +1872,7 @@
       "year": "2017",
       "runtime": "132 minutes",
       "director": "Luca Guadagnino",
-      "genre": "Drama, Romance",
+      "genre": "Romance",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1935,7 +1884,7 @@
       "year": "2017",
       "runtime": "115 minutes",
       "director": "Martin McDonagh",
-      "genre": "Comedy, Crime, Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -1947,7 +1896,7 @@
       "year": "2017",
       "runtime": "130 minutes",
       "director": "Paul Thomas Anderson",
-      "genre": "Drama, Romance",
+      "genre": "Drama",
       "rotten tomatoes score": "91%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -1959,7 +1908,7 @@
       "year": "2017",
       "runtime": "94 minutes",
       "director": "Greta Gerwig",
-      "genre": "Comedy, Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "99%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -1971,7 +1920,7 @@
       "year": "2017",
       "runtime": "125 minutes",
       "director": "Joe Wright",
-      "genre": "Biography, Drama, History",
+      "genre": "Biography",
       "rotten tomatoes score": "84%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -1983,7 +1932,7 @@
       "year": "2018",
       "runtime": "134 minutes",
       "director": "Bryan Singer",
-      "genre": "Biography, Drama, Music",
+      "genre": "Biography",
       "rotten tomatoes score": "60%",
       "mpaa rating": "PG-13",
       "oscars won": "4"
@@ -1995,7 +1944,7 @@
       "year": "2018",
       "runtime": "119 minutes",
       "director": "Yorgos Lanthimos",
-      "genre": "Biography, Comedy, Drama",
+      "genre": "Comedy",
       "rotten tomatoes score": "93%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -2019,7 +1968,7 @@
       "year": "2019",
       "runtime": "132 minutes",
       "director": "Bong Joon Ho",
-      "genre": "Comedy, Drama, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "99%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -2031,7 +1980,7 @@
       "year": "2019",
       "runtime": "152 minutes",
       "director": "James Mangold",
-      "genre": "Action, Biography, Drama",
+      "genre": "Action",
       "rotten tomatoes score": "92%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -2043,7 +1992,7 @@
       "year": "2019",
       "runtime": "122 minutes",
       "director": "Todd Phillips",
-      "genre": "Crime, Drama, Thriller",
+      "genre": "Drama",
       "rotten tomatoes score": "69%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -2055,7 +2004,7 @@
       "year": "2019",
       "runtime": "119 minutes",
       "director": "Sam Mendes",
-      "genre": "Action, Drama, War",
+      "genre": "War",
       "rotten tomatoes score": "88%",
       "mpaa rating": "R",
       "oscars won": "3"
@@ -2067,7 +2016,7 @@
       "year": "2019",
       "runtime": "161 minutes",
       "director": "Quentin Tarantino",
-      "genre": "Comedy, Drama",
+      "genre": "Drama",
       "rotten tomatoes score": "85%",
       "mpaa rating": "R",
       "oscars won": "2"
@@ -2091,7 +2040,7 @@
       "year": "2020",
       "runtime": "97 minutes",
       "director": "Florian Zeller",
-      "genre": "Drama, Mystery",
+      "genre": "Drama",
       "rotten tomatoes score": "98%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
@@ -2103,7 +2052,7 @@
       "year": "2021",
       "runtime": "138 minutes",
       "director": "Adam McKay",
-      "genre": "Comedy, Drama, Sci-Fi",
+      "genre": "Comedy",
       "rotten tomatoes score": "56%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2115,7 +2064,7 @@
       "year": "2021",
       "runtime": "126 minutes",
       "director": "Jane Campion",
-      "genre": "Drama, Western",
+      "genre": "Western",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "1"
@@ -2127,7 +2076,7 @@
       "year": "2022",
       "runtime": "139 minutes",
       "director": "Daniel Kwan, Daniel Scheinert",
-      "genre": "Action, Adventure, Comedy",
+      "genre": "Adventure",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "7"
@@ -2139,7 +2088,7 @@
       "year": "2022",
       "runtime": "147 minutes",
       "director": "Edward Berger",
-      "genre": "Action, Drama, War",
+      "genre": "War",
       "rotten tomatoes score": "90%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -2151,7 +2100,7 @@
       "year": "2022",
       "runtime": "159 minutes",
       "director": "Baz Luhrmann",
-      "genre": "Biography, Drama, Music",
+      "genre": "Biography",
       "rotten tomatoes score": "77%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2163,7 +2112,7 @@
       "year": "2022",
       "runtime": "158 minutes",
       "director": "Todd Field",
-      "genre": "Drama, Music",
+      "genre": "Drama",
       "rotten tomatoes score": "91%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2175,7 +2124,7 @@
       "year": "2022",
       "runtime": "130 minutes",
       "director": "Joseph Kosinski",
-      "genre": "Action, Drama",
+      "genre": "Action",
       "rotten tomatoes score": "96%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -2187,7 +2136,7 @@
       "year": "2023",
       "runtime": "141 minutes",
       "director": "Yorgos Lanthimos",
-      "genre": "Comedy, Drama, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "92%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -2199,7 +2148,7 @@
       "year": "1999",
       "runtime": "136 minutes",
       "director": "George Lucas",
-      "genre": "Action, Adventure, Fantasy",
+      "genre": "Adventure",
       "rotten tomatoes score": "51%",
       "mpaa rating": "PG",
       "oscars won": "0"
@@ -2211,7 +2160,7 @@
       "year": "2002",
       "runtime": "142 minutes",
       "director": "George Lucas",
-      "genre": "Action, Adventure, Fantasy",
+      "genre": "Adventure",
       "rotten tomatoes score": "65%",
       "mpaa rating": "PG",
       "oscars won": "0"
@@ -2223,7 +2172,7 @@
       "year": "2005",
       "runtime": "140 minutes",
       "director": "George Lucas",
-      "genre": "Action, Adventure, Fantasy",
+      "genre": "Adventure",
       "rotten tomatoes score": "79%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2235,7 +2184,7 @@
       "year": "1997",
       "runtime": "98 minutes",
       "director": "Barry Sonnenfeld",
-      "genre": "Action, Adventure, Comedy",
+      "genre": "Comedy",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -2247,7 +2196,7 @@
       "year": "1984",
       "runtime": "107 minutes",
       "director": "James Cameron",
-      "genre": "Action, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "89%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2259,7 +2208,7 @@
       "year": "1991",
       "runtime": "137 minutes",
       "director": "James Cameron",
-      "genre": "Action, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "91%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -2271,7 +2220,7 @@
       "year": "2003",
       "runtime": "109 minutes",
       "director": "Jonathan Mostow",
-      "genre": "Action, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "69%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2283,7 +2232,7 @@
       "year": "1999",
       "runtime": "136 minutes",
       "director": "Lana Wachowski, Lilly Wachowski",
-      "genre": "Action, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "83%",
       "mpaa rating": "R",
       "oscars won": "4"
@@ -2295,7 +2244,7 @@
       "year": "2003",
       "runtime": "138 minutes",
       "director": "Lana Wachowski, Lilly Wachowski",
-      "genre": "Action, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "73%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2307,7 +2256,7 @@
       "year": "2003",
       "runtime": "129 minutes",
       "director": "Lana Wachowski, Lilly Wachowski",
-      "genre": "Action, Sci-Fi",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "35%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2319,7 +2268,7 @@
       "year": "1999",
       "runtime": "124 minutes",
       "director": "Stephen Sommers",
-      "genre": "Action, Adventure, Fantasy",
+      "genre": "Adventure",
       "rotten tomatoes score": "61%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2331,7 +2280,7 @@
       "year": "2023",
       "runtime": "125 minutes",
       "director": "Takashi Yamazaki",
-      "genre": "Action, Drama, Sci-Fi",
+      "genre": "Action",
       "rotten tomatoes score": "98%",
       "mpaa rating": "PG-13",
       "oscars won": "1"
@@ -2343,7 +2292,7 @@
       "year": "1988",
       "runtime": "132 minutes",
       "director": "John McTiernan",
-      "genre": "Action, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "94%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2355,7 +2304,7 @@
       "year": "1990",
       "runtime": "124 minutes",
       "director": "Renny Harlin",
-      "genre": "Action, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "69%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2367,7 +2316,7 @@
       "year": "1995",
       "runtime": "128 minutes",
       "director": "John McTiernan",
-      "genre": "Action, Thriller",
+      "genre": "Thriller",
       "rotten tomatoes score": "58%",
       "mpaa rating": "R",
       "oscars won": "0"
@@ -2379,7 +2328,7 @@
       "year": "2005",
       "runtime": "187 minutes",
       "director": "Peter Jackson",
-      "genre": "Action, Adventure, Drama",
+      "genre": "Adventure",
       "rotten tomatoes score": "84%",
       "mpaa rating": "PG-13",
       "oscars won": "3"
@@ -2391,7 +2340,7 @@
       "year": "2005",
       "runtime": "116 minutes",
       "director": "Steven Spielberg",
-      "genre": "Adventure, Sci-Fi, Thriller",
+      "genre": "Sci-Fi",
       "rotten tomatoes score": "75%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2403,7 +2352,7 @@
       "year": "2004",
       "runtime": "124 minutes",
       "director": "Roland Emmerich",
-      "genre": "Action, Adventure, Sci-Fi",
+      "genre": "Action",
       "rotten tomatoes score": "45%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2415,7 +2364,7 @@
       "year": "2015",
       "runtime": "138 minutes",
       "director": "J.J. Abrams",
-      "genre": "Action, Adventure, Sci-Fi",
+      "genre": "Adventure",
       "rotten tomatoes score": "93%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2427,7 +2376,7 @@
       "year": "2017",
       "runtime": "152 minutes",
       "director": "Rian Johnson",
-      "genre": "Action, Adventure, Fantasy",
+      "genre": "Adventure",
       "rotten tomatoes score": "91%",
       "mpaa rating": "PG-13",
       "oscars won": "0"
@@ -2439,10 +2388,226 @@
       "year": "2012",
       "runtime": "143 minutes",
       "director": "Sam Mendes",
-      "genre": "Action, Adventure, Thriller",
+      "genre": "Action",
       "rotten tomatoes score": "92%",
       "mpaa rating": "PG-13",
       "oscars won": "2"
+    },
+    {
+      "title": "Gladiator 2",
+      "review": "Ponderous, Pretentious, Pathetic",
+      "letter grade": "D",
+      "year": "2024",
+      "runtime": "TBA",
+      "director": "Ridley Scott",
+      "genre": "Action",
+      "rotten tomatoes score": "71%",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "Dune",
+      "review": "Slow To Start",
+      "letter grade": "B",
+      "year": "2000",
+      "runtime": "295 minutes",
+      "director": "John Harrison",
+      "genre": "Sci-Fi",
+      "rotten tomatoes score": "41%",
+      "mpaa rating": "TV-PG",
+      "oscars won": "0"
+    },
+    {
+      "title": "Dune: Part 2",
+      "review": "Exciting If Thin",
+      "letter grade": "B+",
+      "year": "2003",
+      "runtime": "265 minutes",
+      "director": "Greg Yaitanes",
+      "genre": "Sci-Fi",
+      "rotten tomatoes score": "60%",
+      "mpaa rating": "TV-PG",
+      "oscars won": "0"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "review": "Ruined By Screenplay",
+      "letter grade": "C",
+      "year": "2015",
+      "runtime": "120 minutes",
+      "director": "George Miller",
+      "genre": "Sci-Fi",
+      "rotten tomatoes score": "97%",
+      "mpaa rating": "R",
+      "oscars won": "6"
+    },
+    {
+      "title": "Furiosa",
+      "review": "What Just Happened?",
+      "letter grade": "D+",
+      "year": "2024",
+      "runtime": "TBA",
+      "director": "George Miller",
+      "genre": "Sci-Fi",
+      "rotten tomatoes score": "TBA",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "The Revenant",
+      "review": "DiCaprio Grunts. Repeat.",
+      "letter grade": "C+",
+      "year": "2015",
+      "runtime": "156 minutes",
+      "director": "Alejandro G. Iñárritu",
+      "genre": "Drama",
+      "rotten tomatoes score": "78%",
+      "mpaa rating": "R",
+      "oscars won": "3"
+    },
+    {
+      "title": "Batman Begins",
+      "review": "Reinvigorates The Franchise",
+      "letter grade": "B",
+      "year": "2005",
+      "runtime": "140 minutes",
+      "director": "Christopher Nolan",
+      "genre": "Action",
+      "rotten tomatoes score": "84%",
+      "mpaa rating": "PG-13",
+      "oscars won": "0"
+    },
+    {
+      "title": "The Dark Knight",
+      "review": "Long. Ludicrous. Ledger!",
+      "letter grade": "B-",
+      "year": "2008",
+      "runtime": "152 minutes",
+      "director": "Christopher Nolan",
+      "genre": "Action",
+      "rotten tomatoes score": "94%",
+      "mpaa rating": "PG-13",
+      "oscars won": "2"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "review": "Atrocity Grossed $1,114,976,407",
+      "letter grade": "D-",
+      "year": "2012",
+      "runtime": "164 minutes",
+      "director": "Christopher Nolan",
+      "genre": "Action",
+      "rotten tomatoes score": "87%",
+      "mpaa rating": "PG-13",
+      "oscars won": "0"
+    },
+    {
+      "title": "Django Unchained",
+      "review": "Quentin's Narrative Narcissism",
+      "letter grade": "D+",
+      "year": "2012",
+      "runtime": "165 minutes",
+      "director": "Quentin Tarantino",
+      "genre": "Western",
+      "rotten tomatoes score": "87%",
+      "mpaa rating": "R",
+      "oscars won": "2"
+    },
+    {
+      "title": "No Country for Old Men",
+      "review": "Better Than Fargo",
+      "letter grade": "A+",
+      "year": "2007",
+      "runtime": "122 minutes",
+      "director": "Joel & Ethan Coen",
+      "genre": "Thriller",
+      "rotten tomatoes score": "93%",
+      "mpaa rating": "R",
+      "oscars won": "4"
+    },
+    {
+      "title": "John Wick",
+      "review": "Premise + Reeves = Fun",
+      "letter grade": "B-",
+      "year": "2014",
+      "runtime": "101 minutes",
+      "director": "Chad Stahelski",
+      "genre": "Action",
+      "rotten tomatoes score": "86%",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "John Wick: Chapter 2",
+      "review": "Ups Its Game",
+      "letter grade": "B",
+      "year": "2017",
+      "runtime": "122 minutes",
+      "director": "Chad Stahelski",
+      "genre": "Action",
+      "rotten tomatoes score": "89%",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "review": "Beats #1, #2",
+      "letter grade": "B+",
+      "year": "2019",
+      "runtime": "131 minutes",
+      "director": "Chad Stahelski",
+      "genre": "Action",
+      "rotten tomatoes score": "89%",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "review": "No Nolan Pretentiousness",
+      "letter grade": "B",
+      "year": "2023",
+      "runtime": "169 minutes",
+      "director": "Chad Stahelski",
+      "genre": "Action",
+      "rotten tomatoes score": "94%",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "V for Vendetta",
+      "review": "Awful. Portman Tries",
+      "letter grade": "D",
+      "year": "2005",
+      "runtime": "132 minutes",
+      "director": "James McTeigue",
+      "genre": "Sci-Fi",
+      "rotten tomatoes score": "73%",
+      "mpaa rating": "R",
+      "oscars won": "0"
+    },
+    {
+      "title": "Minority Report",
+      "review": "Future Murder Conviction?!",
+      "letter grade": "C",
+      "year": "2002",
+      "runtime": "145 minutes",
+      "director": "Steven Spielberg",
+      "genre": "Action",
+      "rotten tomatoes score": "90%",
+      "mpaa rating": "PG-13",
+      "oscars won": "0"
+    },
+    {
+      "title": "A History of Violence",
+      "review": "Aragorn's Got Demons",
+      "letter grade": "C+",
+      "year": "2005",
+      "runtime": "96 minutes",
+      "director": "David Cronenberg",
+      "genre": "Drama",
+      "rotten tomatoes score": "87%",
+      "mpaa rating": "R",
+      "oscars won": "0"
     }
   ]
 }
