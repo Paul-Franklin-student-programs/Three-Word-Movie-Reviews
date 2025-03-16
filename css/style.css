@@ -143,7 +143,7 @@ nav ul li a:hover {
     /* 🔹 Subtitle Styling */
 .styled-text-below-title {
     color: orange;
-    font-size: 40px;
+    font-size: 25px;
     font-family: Georgia, serif;
     font-style: italic;
 }
@@ -151,7 +151,7 @@ nav ul li a:hover {
 /* 🔹 Title Styling */
 .styled-text {
     font-weight: bold;
-    font-size: 60px;
+    font-size: 45px;
     font-family: 'Georgia', serif;
     color: blue;
 }
@@ -167,7 +167,7 @@ nav ul li a:hover {
      margin-top: 0;
     align-items: center;
     box-sizing: border-box;
-    background-image: url('theater_background.jpg');
+    background-image: url('final-theater-background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@ img[src="img/cinephiles-in-a-hurry.webp"] {
     box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.6);
     /*border: solid yellow 2px;*/
     height: auto;
-    width: clamp(215px, 8vw, 800px);
+    width: clamp(170px, 8vw, 800px);
 }
 
 
