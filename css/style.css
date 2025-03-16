@@ -110,11 +110,11 @@ nav ul li a:hover {
 
 /* 🔹 Page Titles */
 .title-container  {
-    padding: 10px;
-    box-sizing: border-box;
-    margin: 0;
+   border: solid black 2px;
     display: flex;
-    /*border: 2px solid green;*/ /* Debugging border */
+    justify-content: center; /* Centers text horizontally */
+    align-items: center; /* Centers text vertically */
+    text-align: center; /* Ensures text is centered */
 }
 
 .photo-headline-2 {
@@ -125,8 +125,11 @@ nav ul li a:hover {
 }
 
 .subtitle-container {
-    /*border: 2px solid purple;*/
-    text-align: center;
+    border: solid green 2px;
+    display: flex;
+    justify-content: center; /* Centers text horizontally */
+    align-items: center; /* Centers text vertically */
+    text-align: center; /* Ensures text is centered */
     }
 
     /* 🔹 Subtitle Styling */
@@ -135,14 +138,11 @@ nav ul li a:hover {
     font-size: 33px;
     font-family: Georgia, serif;
     font-style: italic;
-    margin: 0;
-    /*border: 2px solid yellow;*/
 }
 
 /* 🔹 Title Styling */
 .styled-text {
     font-weight: bold;
-    margin: 0;
     font-size: 50px;
     font-family: 'Georgia', serif;
     color: blue;
@@ -150,36 +150,59 @@ nav ul li a:hover {
 
 /* 🔹 Main Display Container */
 .main-display-container {
-    /*border: 2px black;*/ /* Debugging border */
     display: flex;
-    align-items: center; /* Aligns items vertically */
-    justify-content: space-evenly; /* Spaces children evenly */
-    max-width: 2500px; /* Adjust as needed */
-    margin: 0 auto; /* Centers the container */
-    padding: 20px;
+    justify-content: center; /* Centers the wrapper */
+    align-items: center; /* Centers vertically */
+    width: 100%;
+    height: 100vh; /* Makes the parent span the full screen */
     box-sizing: border-box;
+    background-image: url('theater_background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
+.main-display-wrapper {
+    display: flex;
+    flex-direction: row; /* Keeps children side by side */
+    justify-content: center; /* Ensures children are centered inside */
+    align-items: center; /* Keeps them aligned vertically */
+    gap: 20px; /* Adds space between children */
+    width: fit-content; /* Prevents unnecessary stretching */
+    border: solid orange 3px; /* Debugging */
+    background-color: rgba(255, 165, 0, 0.3);
+    position: absolute; /* Fixes it to the top */
+    top: 0; /* Places it flush at the top */
+    left: 50%; /* Centers it horizontally */
+    transform: translateX(-50%);
+}
+
+.main-text-container {
+    display: flex;
+    width: fit-content;
+    flex-direction: column; /* Keeps text elements stacked */
+    text-align: center;
+    border: 2px solid red; /* Debugging */
+    width: min(50vw, fit-content); /* Responsive width: fits content but adapts */
+    white-space: nowrap; /* Prevents line breaks */
+  }
 
 /* 🔹 Image Container */
 .movies-in-a-hurry {
     display: flex;
+    justify-content: center;
     align-items: center;
-    justify-content: center; /* Ensures image is centered */
-    width: fit-content; /* Shrinks to match image size */
-    /*border: 2px solid blue;*/ /* Debugging border */
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+    width: fit-content;
+    border: 2px solid blue; /* Debugging */
 }
 
 /* 🔹 Image Styling */
 img[src="img/cinephiles-in-a-hurry.webp"] {
-    max-width: 300px; /* Prevents it from becoming too large */
-    width: auto; /* Keeps its natural width */
-    height: auto; /* Maintains aspect ratio */
     display: block; /* Removes inline spacing */
     border-radius: 10px; /* Optional rounded corners */
+    width: 95%; /* Adjusts based on parent/container size */
+    height: auto; /* Keeps aspect ratio */
+    max-width: 300px; /* Optional: prevents it from getting too big */
 }
 
 
