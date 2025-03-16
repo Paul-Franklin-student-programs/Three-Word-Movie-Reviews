@@ -159,15 +159,16 @@ nav ul li a:hover {
 /* 🔹 Main Display Container */
 .main-display-container {
     /*border: solid red 2px;*/
+    width: 100vw;
+    height: min(37vh, 60%); /* Allows height to scale better */
+    background-size: cover; /* Ensures background scales correctly */
     display: flex;
     flex-direction: column;
      margin-top: 0;
     align-items: center;
-    width: 100vw;
-    height: 37vh; /* Reduces height so text appears higher */
     box-sizing: border-box;
     background-image: url('theater_background.jpg');
-    background-size: 100% auto;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -175,13 +176,13 @@ nav ul li a:hover {
 
 .main-display-wrapper {
     /*border: solid blue 2px;*/
-    margin-top: 1%;
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    width: 100%;
     min-height: 100px;
     max-width: 70vw;
+    width: 80%; /* Allows scaling instead of a hard max width */
+    max-width: 1200px; /* Prevents it from getting too large */
 }
 
 .main-text-container {
@@ -199,14 +200,15 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 22%;
+    width: fit-content;
 }
 
 /* 🔹 Image Styling */
 img[src="img/cinephiles-in-a-hurry.webp"] {
-    border: solid yellow 2px;
-    width: 100%; /* Forces the image to take the full container width */
+    box-shadow: 0 0 10px 5px rgba(255, 255, 0, 0.6);
+    /*border: solid yellow 2px;*/
     height: auto;
+    width: clamp(215px, 8vw, 800px);
 }
 
 
